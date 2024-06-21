@@ -21,7 +21,7 @@ In compliance with the terms and conditions of this End­ User License Agreement
 
 <p style="text-align: center; font-size: 1.17em; font-weight: bold;">GENERAL USE CONDITIONS</p>
 
-For the purpose of this Agreement, under the meaning “Software” must be understood                                a ThingsBoard Professional Edition IoT Platform that enables rapid development, management and scaling of IoT projects as well as provide a possibility to: (i) provision and control devices; (ii) collect and visualize data from devices; (iii) analyze device data and trigger alarms; (iv) deliver device data to other systems; (v) enable use-case specific features using customizable rules and plugins. All specific features regarding the Software functionality can be found by the Licensee at: https://thingsboard.io/docs.
+For the purpose of this Agreement, under the meaning “Software” must be understood                                a ThingsBoard Professional Edition IoT Platform that enables rapid development, management and scaling of IoT projects as well as provide a possibility to: (i) provision and control devices; (ii) collect and visualize data from devices; (iii) analyze device data and trigger alarms; (iv) deliver device data to other systems; (v) enable use-case specific features using customizable rules and plugins. All specific features regarding the Software functionality can be found by the Licensee at: https://docs.sensef.ru/docs.
 
 Using the Software, the Licensee is obliged to adhere to the terms and conditions specified herein. Before the use of the Software on a fee basis, the Licensee may use the Software under a free trial short term License, the period of which is 10 (ten) days (hereinafter referred to as “Test period”).
 

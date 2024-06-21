@@ -33,7 +33,7 @@ The platform provides production-ready server infrastructure to connect your IoT
 
 ## Smart office template
 
-Smart Office [template](https://thingsboard.io/docs/paas/solution-templates/smart-office/) represents a basic work space monitoring and management solution. 
+Smart Office [template](https://docs.sensef.ru/docs/paas/solution-templates/smart-office/) represents a basic work space monitoring and management solution. 
 With this layout you get an interactive dashboard with the ability to control HVAC system, 
 and have a high-level report of key metrics necessary for effective and proactive office management.
 
@@ -59,7 +59,7 @@ and have a high-level report of key metrics necessary for effective and proactiv
     <a id="UseCases_SmartOffice_ViewLiveDemo" target="_blank" href="https://thingsboard.cloud/dashboard/bf47dcb0-8b38-11ec-a344-c767c1ab1bb8?publicId=4978baf0-8a92-11ec-98f9-ff45c37940c6" class="button gtm_button">View live demo</a>
 </div>
 
-The live dashboard is part of the [solution template](https://thingsboard.io/docs/paas/solution-templates/smart-office/) 
+The live dashboard is part of the [solution template](https://docs.sensef.ru/docs/paas/solution-templates/smart-office/) 
 and displays office floor plan and data from various IoT sensors that is collected using ThingsBoard MQTT API.
 
 You may use the dashboard to:

@@ -165,7 +165,7 @@
 
 
 
-<p>We invite you to explore the potential of ThingsBoard in revolutionizing your retail operations. Our award-winning IoT solutions are designed to empower businesses like yours to navigate digital transformation with confidence. Discover how we can help transform your business by visiting our <a href="https://thingsboard.io/">website</a> or <a href="https://thingsboard.io/docs/contact-us/">contacting</a> our sales team. Let&#8217;s innovate together and lead the way in retail technology.</p><p>The post <a href="/blog/top-supplier-retail-2024-2/">TOP SUPPLIER RETAIL 2024: ThingsBoard and Schwarz Group’s Award-Winning Partnership</a> first appeared on <a href="/blog/">Thingsboard's blog</a>.</p>]]></content:encoded>
+<p>We invite you to explore the potential of ThingsBoard in revolutionizing your retail operations. Our award-winning IoT solutions are designed to empower businesses like yours to navigate digital transformation with confidence. Discover how we can help transform your business by visiting our <a href="https://docs.sensef.ru/">website</a> or <a href="https://docs.sensef.ru/docs/contact-us/">contacting</a> our sales team. Let&#8217;s innovate together and lead the way in retail technology.</p><p>The post <a href="/blog/top-supplier-retail-2024-2/">TOP SUPPLIER RETAIL 2024: ThingsBoard and Schwarz Group’s Award-Winning Partnership</a> first appeared on <a href="/blog/">Thingsboard's blog</a>.</p>]]></content:encoded>
 					
 		
 		
@@ -565,7 +565,7 @@
 
 
 
-<p style="font-size:16px">If you want to learn more about this topic, see a full description of the problems and their solutions using anomaly detection, and check out the detailed step-by-step&nbsp;<a href="https://thingsboard.io/blog/optimizing-solar-parks-efficiency-advanced-anomaly-detection-solutions/" title="">guide here</a>.</p>
+<p style="font-size:16px">If you want to learn more about this topic, see a full description of the problems and their solutions using anomaly detection, and check out the detailed step-by-step&nbsp;<a href="https://docs.sensef.ru/blog/optimizing-solar-parks-efficiency-advanced-anomaly-detection-solutions/" title="">guide here</a>.</p>
 
 
 
@@ -607,7 +607,7 @@
 
 
 
-<p style="font-size:16px">If you want to learn more about the topic, check out the detailed step-by-step guide covering the topic of “Soiling” in Solar Farms. To read it,&nbsp;<a href="https://thingsboard.io/blog/reducing-costs-of-solar-farms-by-optimizing-the-cleaning-process/" title="">click here</a>.</p>
+<p style="font-size:16px">If you want to learn more about the topic, check out the detailed step-by-step guide covering the topic of “Soiling” in Solar Farms. To read it,&nbsp;<a href="https://docs.sensef.ru/blog/reducing-costs-of-solar-farms-by-optimizing-the-cleaning-process/" title="">click here</a>.</p>
 
 
 
@@ -752,7 +752,7 @@
 
 
 <ul>
-<li style="font-size:16px">Collect data from the solar farm site into an IoT platform for processing. Most equipment is capable of&nbsp;<a href="https://thingsboard.io/docs/user-guide/integrations/">reporting data using Modbus, MQTT, HTTP protocols</a>, or&nbsp;<a href="https://thingsboard.io/docs/iot-gateway/what-is-iot-gateway/">gateway data loggers</a>. We need to collect the following information: 
+<li style="font-size:16px">Collect data from the solar farm site into an IoT platform for processing. Most equipment is capable of&nbsp;<a href="https://docs.sensef.ru/docs/user-guide/integrations/">reporting data using Modbus, MQTT, HTTP protocols</a>, or&nbsp;<a href="https://docs.sensef.ru/docs/iot-gateway/what-is-iot-gateway/">gateway data loggers</a>. We need to collect the following information: 
 <ul>
 <li>Data from weather stations &#8211; solar irradiance, temperature, humidity, etc</li>
 
@@ -776,23 +776,23 @@
 
 
 
-<li style="font-size:16px">Set up a monitoring dashboard in the IoT platform that will&nbsp;<a href="https://thingsboard.io/docs/user-guide/dashboards/">visualize collected data in real-time</a>.</li>
+<li style="font-size:16px">Set up a monitoring dashboard in the IoT platform that will&nbsp;<a href="https://docs.sensef.ru/docs/user-guide/dashboards/">visualize collected data in real-time</a>.</li>
 
 
 
-<li style="font-size:16px"><a href="https://thingsboard.io/docs/trendz/calculated-fields/">Configure computation of </a><a href="https://thingsboard.io/docs/trendz/calculated-fields/" title="">system-level metrics / KPIs</a>&nbsp;that would describe overall system behavior.</li>
+<li style="font-size:16px"><a href="https://docs.sensef.ru/docs/trendz/calculated-fields/">Configure computation of </a><a href="https://docs.sensef.ru/docs/trendz/calculated-fields/" title="">system-level metrics / KPIs</a>&nbsp;that would describe overall system behavior.</li>
 
 
 
-<li style="font-size:16px"><a href="https://thingsboard.io/docs/trendz/anomaly/anomaly-detection-overview/">Train anomaly detection model on historical data</a>&nbsp;to identify abnormal component behavior or equipment misconfiguration. Enable real-time anomaly detection for all on-site equipment.</li>
+<li style="font-size:16px"><a href="https://docs.sensef.ru/docs/trendz/anomaly/anomaly-detection-overview/">Train anomaly detection model on historical data</a>&nbsp;to identify abnormal component behavior or equipment misconfiguration. Enable real-time anomaly detection for all on-site equipment.</li>
 
 
 
-<li style="font-size:16px"><a href="https://thingsboard.io/docs/trendz/guide/predict-next-maintenance-date-of-equipment/">Configure predictive maintenance models</a>&nbsp;that would forecast potential issues in the future and compute equipment health scores.</li>
+<li style="font-size:16px"><a href="https://docs.sensef.ru/docs/trendz/guide/predict-next-maintenance-date-of-equipment/">Configure predictive maintenance models</a>&nbsp;that would forecast potential issues in the future and compute equipment health scores.</li>
 
 
 
-<li style="font-size:16px"><a href="https://thingsboard.io/docs/user-guide/alarms/">Set up Alerting and notification rules</a>&nbsp;to trigger automated corrective actions or&nbsp;<a href="https://thingsboard.io/docs/user-guide/notifications/">notify staff about discovered incidents</a>.</li>
+<li style="font-size:16px"><a href="https://docs.sensef.ru/docs/user-guide/alarms/">Set up Alerting and notification rules</a>&nbsp;to trigger automated corrective actions or&nbsp;<a href="https://docs.sensef.ru/docs/user-guide/notifications/">notify staff about discovered incidents</a>.</li>
 </ul>
 
 

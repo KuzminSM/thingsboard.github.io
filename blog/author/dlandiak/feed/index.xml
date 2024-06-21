@@ -44,7 +44,7 @@
 
 
 
-<p style="font-size:16px">We have added the new WebSocket client &#8211; a browser-accessible tool that greatly simplifies the debugging and testing of MQTT clients across various scenarios. Utilizing the <a href="https://thingsboard.io/docs/mqtt-broker/user-guide/mqtt-over-ws/">MQTT over WebSocket </a>feature, this tool offers a user-friendly interface for a range of functionalities. Key features include:</p>
+<p style="font-size:16px">We have added the new WebSocket client &#8211; a browser-accessible tool that greatly simplifies the debugging and testing of MQTT clients across various scenarios. Utilizing the <a href="https://docs.sensef.ru/docs/mqtt-broker/user-guide/mqtt-over-ws/">MQTT over WebSocket </a>feature, this tool offers a user-friendly interface for a range of functionalities. Key features include:</p>
 
 
 

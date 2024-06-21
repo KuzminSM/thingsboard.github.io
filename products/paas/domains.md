@@ -173,4 +173,4 @@ mydomain.thingsboard.online. 3600 IN	CNAME	thingsboard.cloud
 ...
 ```
 
-If all the things are correct, but some issue still persists - please [Contact us](https://thingsboard.io/docs/contact-us/) for further support.
+If all the things are correct, but some issue still persists - please [Contact us](https://docs.sensef.ru/docs/contact-us/) for further support.

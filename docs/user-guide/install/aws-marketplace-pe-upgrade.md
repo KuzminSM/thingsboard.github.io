@@ -365,7 +365,7 @@ Download ThingsBoard Web Report Server installation script:
 
 ```bash
 $ cd ~
-$ wget --quiet -O tb-install-web-report.sh https://thingsboard.io/docs/user-guide/install/resources/tb-install-web-report.sh
+$ wget --quiet -O tb-install-web-report.sh https://docs.sensef.ru/docs/user-guide/install/resources/tb-install-web-report.sh
 $ chmod +x tb-install-web-report.sh
 ```
 
@@ -719,7 +719,7 @@ Download ThingsBoard Web Report Server installation script:
 
 ```bash
 $ cd ~
-$ wget --quiet -O tb-install-web-report.sh https://thingsboard.io/docs/user-guide/install/resources/tb-install-web-report.sh
+$ wget --quiet -O tb-install-web-report.sh https://docs.sensef.ru/docs/user-guide/install/resources/tb-install-web-report.sh
 $ chmod +x tb-install-web-report.sh
 ```
 
@@ -1260,7 +1260,7 @@ Download ThingsBoard Web Report Server installation script:
 
 ```bash
 $ cd ~
-$ wget --quiet -O tb-install-web-report.sh https://thingsboard.io/docs/user-guide/install/resources/tb-install-web-report.sh
+$ wget --quiet -O tb-install-web-report.sh https://docs.sensef.ru/docs/user-guide/install/resources/tb-install-web-report.sh
 $ chmod +x tb-install-web-report.sh
 ```
 

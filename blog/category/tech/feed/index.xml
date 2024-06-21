@@ -38,7 +38,7 @@
 
 
 
-<p>To deliver notifications from ThingsBoard instances to mobile apps, we utilize <a href="https://firebase.google.com/" target="_blank" rel="noreferrer noopener">Firebase</a>. To set up push notifications, create a Firebase project and provide the necessary Firebase credentials to both the platform instance and the mobile application. For setup instructions, community edition users should follow this community edition <a href="https://thingsboard.io/docs/mobile/getting-started/#step-4-optional-configure-push-notifications" target="_blank" rel="noreferrer noopener">guide</a>, while professional edition users can refer to the professional edition <a href="https://thingsboard.io/docs/pe/mobile/getting-started/#step-4-optional-configure-push-notifications" target="_blank" rel="noreferrer noopener">guide</a>.</p>
+<p>To deliver notifications from ThingsBoard instances to mobile apps, we utilize <a href="https://firebase.google.com/" target="_blank" rel="noreferrer noopener">Firebase</a>. To set up push notifications, create a Firebase project and provide the necessary Firebase credentials to both the platform instance and the mobile application. For setup instructions, community edition users should follow this community edition <a href="https://docs.sensef.ru/docs/mobile/getting-started/#step-4-optional-configure-push-notifications" target="_blank" rel="noreferrer noopener">guide</a>, while professional edition users can refer to the professional edition <a href="https://docs.sensef.ru/docs/pe/mobile/getting-started/#step-4-optional-configure-push-notifications" target="_blank" rel="noreferrer noopener">guide</a>.</p>
 
 
 
@@ -54,7 +54,7 @@
 
 
 
-<p>Open the &#8220;New notification&#8221; wizard by following this <a href="https://thingsboard.io/docs/user-guide/notifications/#send-notification" target="_blank" rel="noreferrer noopener">guide</a>. Specify target recipients and choose &#8220;Mobile app&#8221; as the method for sending your notification. Please note that the recipient must install and login to the mobile application before the notifications may be sent. </p>
+<p>Open the &#8220;New notification&#8221; wizard by following this <a href="https://docs.sensef.ru/docs/user-guide/notifications/#send-notification" target="_blank" rel="noreferrer noopener">guide</a>. Specify target recipients and choose &#8220;Mobile app&#8221; as the method for sending your notification. Please note that the recipient must install and login to the mobile application before the notifications may be sent. </p>
 
 
 
@@ -102,7 +102,7 @@
 
 
 
-<p>Notification rules are your go-to tool for automating alerts based on specific events, making it a breeze to keep everyone informed without manual intervention. A common scenario is sending out alerts for new alarms. These rules can handle everything from simple notifications to complex escalation chains and are highly customizable. Learn more about notification rules <a href="https://thingsboard.io/docs/user-guide/notifications/#alarm-1" target="_blank" rel="noreferrer noopener">here</a>. See the default rule below. This rule sends information about new alarm to all tenant administrators:</p>
+<p>Notification rules are your go-to tool for automating alerts based on specific events, making it a breeze to keep everyone informed without manual intervention. A common scenario is sending out alerts for new alarms. These rules can handle everything from simple notifications to complex escalation chains and are highly customizable. Learn more about notification rules <a href="https://docs.sensef.ru/docs/user-guide/notifications/#alarm-1" target="_blank" rel="noreferrer noopener">here</a>. See the default rule below. This rule sends information about new alarm to all tenant administrators:</p>
 
 
 
@@ -112,7 +112,7 @@
 
 
 
-<p>Each rule is associated with a notification <a href="https://thingsboard.io/docs/user-guide/notifications/#templates" target="_blank" rel="noreferrer noopener">template</a>, which defines the delivery method and appearance of notifications. To get started with push notifications for new alarms, modify the &#8220;New Alarm Notification&#8221; template to include the &#8220;Mobile app&#8221; delivery option.</p>
+<p>Each rule is associated with a notification <a href="https://docs.sensef.ru/docs/user-guide/notifications/#templates" target="_blank" rel="noreferrer noopener">template</a>, which defines the delivery method and appearance of notifications. To get started with push notifications for new alarms, modify the &#8220;New Alarm Notification&#8221; template to include the &#8220;Mobile app&#8221; delivery option.</p>
 
 
 
@@ -142,11 +142,11 @@
 
 
 
-<p>Don&#8217;t stop at alarm notifications. It&#8217;s a good idea to enable mobile alerts for updates, comments, and assignments related to alarms. Explore all the types of notification <a href="https://thingsboard.io/docs/user-guide/notifications" target="_blank" rel="noreferrer noopener">templates</a> available to fully leverage this feature.</p>
+<p>Don&#8217;t stop at alarm notifications. It&#8217;s a good idea to enable mobile alerts for updates, comments, and assignments related to alarms. Explore all the types of notification <a href="https://docs.sensef.ru/docs/user-guide/notifications" target="_blank" rel="noreferrer noopener">templates</a> available to fully leverage this feature.</p>
 
 
 
-<p>For a seamless user experience, you can link notifications to specific mobile dashboards. When an alarm triggers a notification, tapping on it in the mobile app can directly open the relevant dashboard. This integration is set up in the device profile&#8217;s <a href="https://thingsboard.io/docs/user-guide/device-profiles/#alarm-rules" target="_blank" rel="noreferrer noopener">alarm rules</a>.</p>
+<p>For a seamless user experience, you can link notifications to specific mobile dashboards. When an alarm triggers a notification, tapping on it in the mobile app can directly open the relevant dashboard. This integration is set up in the device profile&#8217;s <a href="https://docs.sensef.ru/docs/user-guide/device-profiles/#alarm-rules" target="_blank" rel="noreferrer noopener">alarm rules</a>.</p>
 
 
 
@@ -218,7 +218,7 @@
 
 
 
-<p>The <a href="https://thingsboard.io/docs/user-guide/widgets/#widget-time-window" data-type="link" data-id="https://thingsboard.io/docs/user-guide/dashboards/#timewindow" target="_blank" rel="noreferrer noopener">time window</a> and <a href="https://thingsboard.io/docs/user-guide/widgets/#data-source-types" data-type="link" data-id="https://thingsboard.io/docs/user-guide/widgets/#data-source-types">data source</a> configurations are similar to other time series widgets. Please note that you may display data from multiple entities using <a href="https://thingsboard.io/docs/user-guide/ui/aliases/" data-type="link" data-id="https://thingsboard.io/docs/user-guide/ui/aliases/" target="_blank" rel="noreferrer noopener">entity aliases</a>.</p>
+<p>The <a href="https://docs.sensef.ru/docs/user-guide/widgets/#widget-time-window" data-type="link" data-id="https://docs.sensef.ru/docs/user-guide/dashboards/#timewindow" target="_blank" rel="noreferrer noopener">time window</a> and <a href="https://docs.sensef.ru/docs/user-guide/widgets/#data-source-types" data-type="link" data-id="https://docs.sensef.ru/docs/user-guide/widgets/#data-source-types">data source</a> configurations are similar to other time series widgets. Please note that you may display data from multiple entities using <a href="https://docs.sensef.ru/docs/user-guide/ui/aliases/" data-type="link" data-id="https://docs.sensef.ru/docs/user-guide/ui/aliases/" target="_blank" rel="noreferrer noopener">entity aliases</a>.</p>
 
 
 
@@ -284,7 +284,7 @@
 
 
 
-<p>The series table lets you set up which time series data keys to show. You can display each series as either a line or bars, and it needs to be linked to a specific Y-axis. When displaying data from several entities together, you can use <a href="https://thingsboard.io/docs/user-guide/ui/aliases/" data-type="link" data-id="https://thingsboard.io/docs/user-guide/ui/aliases/" target="_blank" rel="noreferrer noopener">entity aliases</a> as the data source. To differentiate between data series from various entities, we recommend including <strong>${entityName} </strong>or <strong>${entityLabel}</strong> in the series label. These placeholders will automatically be replaced with the specific names or labels of the entities, making it easier to tell the series apart.</p>
+<p>The series table lets you set up which time series data keys to show. You can display each series as either a line or bars, and it needs to be linked to a specific Y-axis. When displaying data from several entities together, you can use <a href="https://docs.sensef.ru/docs/user-guide/ui/aliases/" data-type="link" data-id="https://docs.sensef.ru/docs/user-guide/ui/aliases/" target="_blank" rel="noreferrer noopener">entity aliases</a> as the data source. To differentiate between data series from various entities, we recommend including <strong>${entityName} </strong>or <strong>${entityLabel}</strong> in the series label. These placeholders will automatically be replaced with the specific names or labels of the entities, making it easier to tell the series apart.</p>
 
 
 
@@ -453,7 +453,7 @@ at the same time" class="wp-image-3733" srcset="/blog/wp-content/uploads/2024/03
 
 
 
-<p style="font-size:16px">This button facilitates single-click navigation to other dashboards, states, or custom actions. You may choose one of the common <a href="https://thingsboard.io/docs/user-guide/ui/widget-actions">widget actions</a> to be triggered when the user clicks the button. You may also choose whether the button is in default, activated, or disabled state. </p>
+<p style="font-size:16px">This button facilitates single-click navigation to other dashboards, states, or custom actions. You may choose one of the common <a href="https://docs.sensef.ru/docs/user-guide/ui/widget-actions">widget actions</a> to be triggered when the user clicks the button. You may also choose whether the button is in default, activated, or disabled state. </p>
 
 
 
@@ -468,7 +468,7 @@ at the same time" class="wp-image-3733" srcset="/blog/wp-content/uploads/2024/03
 
 
 <div class="wp-block-file">
-<a id="wp-block-file--media-2b8b2412-a70d-486d-bfd5-d21e65230e9a" href="https://thingsboard.io/blog/wp-content/uploads/2024/03/tb_dynamic_button_states.json">tb_dynamic_button_states</a><a href="https://thingsboard.io/blog/wp-content/uploads/2024/03/tb_dynamic_button_states.json" class="wp-block-file__button wp-element-button" download="" aria-describedby="wp-block-file--media-2b8b2412-a70d-486d-bfd5-d21e65230e9a">tb_dynamic_button_states.json</a>
+<a id="wp-block-file--media-2b8b2412-a70d-486d-bfd5-d21e65230e9a" href="https://docs.sensef.ru/blog/wp-content/uploads/2024/03/tb_dynamic_button_states.json">tb_dynamic_button_states</a><a href="https://docs.sensef.ru/blog/wp-content/uploads/2024/03/tb_dynamic_button_states.json" class="wp-block-file__button wp-element-button" download="" aria-describedby="wp-block-file--media-2b8b2412-a70d-486d-bfd5-d21e65230e9a">tb_dynamic_button_states.json</a>
 </div>
 
 
@@ -483,7 +483,7 @@ at the same time" class="wp-image-3733" srcset="/blog/wp-content/uploads/2024/03
 
 
 
-<p style="font-size:16px">The button appearance is highly customizable. You may choose one of four available layouts, configure icons, and label appearance. The colors of the buttons are configured via main and background color palettes. By default, the button uses a palette configured in the <a href="https://thingsboard.io/docs/pe/user-guide/white-labeling/">white-labeling settings</a>.</p>
+<p style="font-size:16px">The button appearance is highly customizable. You may choose one of four available layouts, configure icons, and label appearance. The colors of the buttons are configured via main and background color palettes. By default, the button uses a palette configured in the <a href="https://docs.sensef.ru/docs/pe/user-guide/white-labeling/">white-labeling settings</a>.</p>
 
 
 
@@ -493,7 +493,7 @@ at the same time" class="wp-image-3733" srcset="/blog/wp-content/uploads/2024/03
 
 
 
-<p style="font-size:16px">Although the button supports all common <a href="https://thingsboard.io/docs/user-guide/ui/widget-actions">widget actions</a>, we will highlight only the most popular in this article. To demonstrate them, we have prepared the dashboard that you may <a href="https://thingsboard.io/docs/user-guide/dashboards/#import-dashboard">import</a> to your platform instance.</p>
+<p style="font-size:16px">Although the button supports all common <a href="https://docs.sensef.ru/docs/user-guide/ui/widget-actions">widget actions</a>, we will highlight only the most popular in this article. To demonstrate them, we have prepared the dashboard that you may <a href="https://docs.sensef.ru/docs/user-guide/dashboards/#import-dashboard">import</a> to your platform instance.</p>
 
 
 
@@ -507,7 +507,7 @@ at the same time" class="wp-image-3733" srcset="/blog/wp-content/uploads/2024/03
 
 
 
-<div class="wp-block-file"><a id="wp-block-file--media-fd741ad2-e692-4a03-9a23-812a9f191991" href="https://thingsboard.io/blog/wp-content/uploads/2024/03/button_use_cases.json">button_use_cases</a><a href="https://thingsboard.io/blog/wp-content/uploads/2024/03/button_use_cases.json" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-fd741ad2-e692-4a03-9a23-812a9f191991"></a></div>
+<div class="wp-block-file"><a id="wp-block-file--media-fd741ad2-e692-4a03-9a23-812a9f191991" href="https://docs.sensef.ru/blog/wp-content/uploads/2024/03/button_use_cases.json">button_use_cases</a><a href="https://docs.sensef.ru/blog/wp-content/uploads/2024/03/button_use_cases.json" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-fd741ad2-e692-4a03-9a23-812a9f191991"></a></div>
 
 
 
@@ -569,11 +569,11 @@ at the same time" class="wp-image-3733" srcset="/blog/wp-content/uploads/2024/03
 
 
 
-<p style="font-size:16px">The Command button widget is designed to perform three key actions: sending <a href="https://thingsboard.io/docs/user-guide/rpc/">commands</a> to devices, updating <a href="https://thingsboard.io/docs/user-guide/attributes/">attributes</a>, or appending <a href="https://thingsboard.io/docs/user-guide/telemetry/">time series</a> data. </p>
+<p style="font-size:16px">The Command button widget is designed to perform three key actions: sending <a href="https://docs.sensef.ru/docs/user-guide/rpc/">commands</a> to devices, updating <a href="https://docs.sensef.ru/docs/user-guide/attributes/">attributes</a>, or appending <a href="https://docs.sensef.ru/docs/user-guide/telemetry/">time series</a> data. </p>
 
 
 
-<p style="font-size:16px">You can specify a single device to carry out your chosen action, such as receiving a command. For those familiar with the platform, there&#8217;s an option to use <a href="https://thingsboard.io/docs/user-guide/ui/aliases/">entity aliases</a> for targeting. This means you&#8217;re not limited to devices; you can target assets, users, or other entities capable of supporting attribute updates or time series data additions. </p>
+<p style="font-size:16px">You can specify a single device to carry out your chosen action, such as receiving a command. For those familiar with the platform, there&#8217;s an option to use <a href="https://docs.sensef.ru/docs/user-guide/ui/aliases/">entity aliases</a> for targeting. This means you&#8217;re not limited to devices; you can target assets, users, or other entities capable of supporting attribute updates or time series data additions. </p>
 
 
 
@@ -629,7 +629,7 @@ at the same time" class="wp-image-3733" srcset="/blog/wp-content/uploads/2024/03
 
 
 
-<div class="wp-block-file"><a id="wp-block-file--media-8508d6eb-4fb5-4e33-b266-136f058048ae" href="https://thingsboard.io/blog/wp-content/uploads/2024/03/command_buttons.json">command_buttons</a><a href="https://thingsboard.io/blog/wp-content/uploads/2024/03/command_buttons.json" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-8508d6eb-4fb5-4e33-b266-136f058048ae">Download</a></div>
+<div class="wp-block-file"><a id="wp-block-file--media-8508d6eb-4fb5-4e33-b266-136f058048ae" href="https://docs.sensef.ru/blog/wp-content/uploads/2024/03/command_buttons.json">command_buttons</a><a href="https://docs.sensef.ru/blog/wp-content/uploads/2024/03/command_buttons.json" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-8508d6eb-4fb5-4e33-b266-136f058048ae">Download</a></div>
 
 
 
@@ -957,7 +957,7 @@ at the same time" class="wp-image-3733" srcset="/blog/wp-content/uploads/2024/03
 
 					<description><![CDATA[<p>At ThingsBoard, we&#8217;ve always been committed to enhancing user experience and system performance. Our latest update, version 3.6.2,&#8230;</p>
 <p>The post <a href="/blog/optimizing-dashboard-performance-with-enhanced-image-management/">Optimizing dashboard performance with enhanced image management</a> first appeared on <a href="/blog/">Thingsboard's blog</a>.</p>]]></description>
-										<content:encoded><![CDATA[<p style="font-size:16px">At ThingsBoard, we&#8217;ve always been committed to enhancing user experience and system performance. Our latest update, version <a href="https://thingsboard.io/docs/reference/releases/#v362">3.6.2</a>, introduces significant improvements in how images are managed within dashboards, widgets, and more. This update is a key enhancement designed to tackle inefficiencies identified as our user base expanded.</p>
+										<content:encoded><![CDATA[<p style="font-size:16px">At ThingsBoard, we&#8217;ve always been committed to enhancing user experience and system performance. Our latest update, version <a href="https://docs.sensef.ru/docs/reference/releases/#v362">3.6.2</a>, introduces significant improvements in how images are managed within dashboards, widgets, and more. This update is a key enhancement designed to tackle inefficiencies identified as our user base expanded.</p>
 
 
 
@@ -973,7 +973,7 @@ at the same time" class="wp-image-3733" srcset="/blog/wp-content/uploads/2024/03
 
 
 
-<p style="font-size:16px">To address this issue, we&#8217;ve introduced a major update in how images are handled within the platform. A central aspect of this update is the introduction of the <a href="https://thingsboard.io/docs/user-guide/image-gallery/">Image Gallery</a>. By moving dashboards to a separate entity and utilizing our internal, relative links for storing image references, we&#8217;ve significantly improved efficiency. This change minimizes the size of dashboard JSON files, streamlining both loading and editing processes. The Image Gallery simplifies the process of uploading, organizing, and selecting images.</p>
+<p style="font-size:16px">To address this issue, we&#8217;ve introduced a major update in how images are handled within the platform. A central aspect of this update is the introduction of the <a href="https://docs.sensef.ru/docs/user-guide/image-gallery/">Image Gallery</a>. By moving dashboards to a separate entity and utilizing our internal, relative links for storing image references, we&#8217;ve significantly improved efficiency. This change minimizes the size of dashboard JSON files, streamlining both loading and editing processes. The Image Gallery simplifies the process of uploading, organizing, and selecting images.</p>
 
 
 

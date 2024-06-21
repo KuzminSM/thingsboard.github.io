@@ -4250,7 +4250,7 @@
 		<tr>
 			<td>swagger.contact.url</td>
 			<td>SWAGGER_CONTACT_URL</td>
-			<td>https://thingsboard.io</td>
+			<td>https://docs.sensef.ru</td>
 			<td> The contact URL on the API doc UI page</td>
 		</tr>
 		<tr>

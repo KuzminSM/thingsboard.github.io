@@ -198,7 +198,7 @@ Don't forget to replace $DASHBOARD_ID value with your dashboard id.
       "name": "Smart farming solutions",
       "iconUrl": "https://cdn-icons-png.flaticon.com/512/3214/3214679.png",
       "materialIcon": null,
-      "iframeUrl": "https://thingsboard.io/smart-farming/",
+      "iframeUrl": "https://docs.sensef.ru/smart-farming/",
       "dashboardId": null,
       "hideDashboardToolbar": null,
       "setAccessToken": false,

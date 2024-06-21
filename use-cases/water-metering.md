@@ -25,7 +25,7 @@ The platform provides production-ready server infrastructure to connect your IoT
 
 ## Water metering template
 
-Water Metering [solution template](https://thingsboard.io/docs/paas/solution-templates/water-metering/) represent generic water metering solution. 
+Water Metering [solution template](https://docs.sensef.ru/docs/paas/solution-templates/water-metering/) represent generic water metering solution. 
 With this template, you get interactive dashboards that allow administrators and end-users to browse the state of the water meters and aggregated water consumption statistics. 
 Users are able to define thresholds and enable alarms and notifications over SMS or email. 
 You may easily integrate with external billing systems to produce and distribute invoices based on the aggregated consumption data from ThingsBoard. 
@@ -55,7 +55,7 @@ You may easily integrate with external billing systems to produce and distribute
     <a id="UseCases_WaterMeter_ViewLiveDemo" target="_blank" href="https://thingsboard.cloud/dashboard/aff5f200-8b48-11ec-a344-c767c1ab1bb8?publicId=4978baf0-8a92-11ec-98f9-ff45c37940c6" class="button gtm_button">View live demo</a>
 </div>
 
-The live dashboard is part of the [solution template](https://thingsboard.io/docs/paas/solution-templates/smart-office/) and allows you to:
+The live dashboard is part of the [solution template](https://docs.sensef.ru/docs/paas/solution-templates/smart-office/) and allows you to:
 
 * observe location and status of the water meters on the map. Markers are clustered to be able to show thousands of meters simultaneously;
 * browse active alarms and water consumption per day and week;
