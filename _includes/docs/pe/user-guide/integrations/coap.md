@@ -16,7 +16,7 @@ Please review the integration diagram to learn more.
 In this tutorial, we will show you how CoAP integration works as part of **tb-core** service with **NO SECURE** security mode selected. In order to do this we will use: 
 
 {% if docsPrefix == "pe/" %}
-- The instance of [ThingsBoard Professional Edition](https://thingsboard.io/docs/user-guide/install/pe/installation-options/) installed locally;
+- The instance of [ThingsBoard Professional Edition](https://docs.sensef.ru/docs/user-guide/install/pe/installation-options/) installed locally;
 {% endif %}
 {% if docsPrefix contains "paas/" %}
 - ThingsBoard Professional Edition instance — [{{hostName}}](https://{{hostName}});

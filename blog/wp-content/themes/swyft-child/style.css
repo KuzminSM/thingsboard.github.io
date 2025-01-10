@@ -765,7 +765,7 @@ header .header-buttons{
 	 filter: invert(100%) sepia(68%) saturate(0%) hue-rotate(350deg) brightness(113%) contrast(101%);
 }
 
-.dark_styles header .support-ukraine p{
+.dark_styles header p{
     color: #FFFFFF !important;
 }
 
@@ -1014,10 +1014,6 @@ header .header-buttons{
 
 a{
 	text-decoration: none;
-}
-
-.support-ukraine{
-	white-space: nowrap;
 }
 
 header{
@@ -1771,7 +1767,7 @@ header .logo {
 		height: 135px;
 	}
 	
-    #home .opened-burger .support-ukraine p,#docs .opened-burger .support-ukraine p,#common .opened-burger .support-ukraine p,#thingsboard-paas .opened-burger .support-ukraine p,#thingsboard-pe .opened-burger .support-ukraine p,#trendz .opened-burger .support-ukraine p,#thingsboard-edge .opened-burger .support-ukraine p {
+    #home .opened-burger p,#docs .opened-burger p,#common .opened-burger p,#thingsboard-paas .opened-burger p,#thingsboard-pe .opened-burger p,#trendz .opened-burger p,#thingsboard-edge .opened-burger p {
         color:#000
     }
 

@@ -35,8 +35,8 @@ description: ThingsBoard Media Kit
     ThingsBoard logo is a trademark of ThingsBoard, inc.
 </div>
 <div class="trademark-info">
-    <h2>Using the ThingsBoard trademarks to identify ThingsBoard platform and link to <a href="https://thingsboard.io">thingsboard.io</a>:</h2>
-    <p>You needn't ask us for permission to use the ThingsBoard logo  on your own website solely as a hyperlink to <a href="https://thingsboard.io">thingsboard.io</a> or to an appropriate ThingsBoard project,
+    <h2>Using the ThingsBoard trademarks to identify ThingsBoard platform and link to <a href="https://docs.sensef.ru">thingsboard.io</a>:</h2>
+    <p>You needn't ask us for permission to use the ThingsBoard logo  on your own website solely as a hyperlink to <a href="https://docs.sensef.ru">thingsboard.io</a> or to an appropriate ThingsBoard project,
     or in other materials, such as presentations and slides, solely as a means to refer to the ThingsBoard itself.<br>
     All other uses of the ThingsBoard logo must be <a href="https://www.apache.org/foundation/marks/contact#other">approved in writing</a> by the ThingsBoard, inc.</p>
     <h2>Using the ThingsBoard trademarks in software product branding</h2>

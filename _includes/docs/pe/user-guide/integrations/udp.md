@@ -24,7 +24,7 @@ Please review the integration diagram to learn more.
 In this tutorial, we will use:
 
 {% if docsPrefix == "pe/" %}
-- The instance of the [ThingsBoard Professional Edition](https://thingsboard.io/docs/user-guide/install/pe/installation-options/){:target="_blank"} installed locally;
+- The instance of the [ThingsBoard Professional Edition](https://docs.sensef.ru/docs/user-guide/install/pe/installation-options/){:target="_blank"} installed locally;
 - UDP integration, running externally and connected to the ThingsBoard PE instance;
 {% endif %}
 {% if docsPrefix contains "paas/" %}

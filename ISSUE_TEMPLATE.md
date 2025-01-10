@@ -14,7 +14,7 @@
 
 
 **Page to Update:**
-https://thingsboard.io/...
+https://docs.sensef.ru/...
 
 <!--Optional Information (remove the comment tags around information you would like to include)-->
 <!--ThingsBoard Version:-->

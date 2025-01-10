@@ -43,7 +43,7 @@ You may quickly adapt it to Air quality or other sensors and add remote control 
     <a id="UseCases_EnvMon_ViewLiveDemo" target="_blank" href="https://thingsboard.cloud/dashboard/dfaef940-8a91-11ec-83d0-83ba2015b874?publicId=4978baf0-8a92-11ec-98f9-ff45c37940c6" class="button gtm_button">View live demo</a>
 </div>
 
-The live dashboard is part of the [solution template](https://thingsboard.io/docs/paas/solution-templates/temperature-humidity-sensors/) and displays real-time data from temperature and humidity sensor collected using ThingsBoard MQTT API.
+The live dashboard is part of the [solution template](https://docs.sensef.ru/docs/paas/solution-templates/temperature-humidity-sensors/) and displays real-time data from temperature and humidity sensor collected using ThingsBoard MQTT API.
 You may use the dashboard to:
 
 * add new sensors;
