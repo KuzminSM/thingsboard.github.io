@@ -563,7 +563,7 @@ notitle: "true"
             </div>
             <div class="buttons-block">
                 <a id="UseCases_SCADA_ViewLiveDemo" target="_blank" href="https://thingsboard.cloud/dashboard/231a5800-ce96-11ef-852e-bd51c2b30fde?publicId=7aa99e80-8acd-11ef-a59e-a9c993dbec14" class="button gtm_button">View live demo</a>
-                <a id="UseCases_SCADA_ContactUs" target="_blank" href="https://thingsboard.io/docs/contact-us/" class="button contact-us gtm_button">Contact us</a>
+                <a id="UseCases_SCADA_ContactUs" target="_blank" href="https://docs.sensef.ru/docs/contact-us/" class="button contact-us gtm_button">Contact us</a>
             </div>`;
     
             return block;
