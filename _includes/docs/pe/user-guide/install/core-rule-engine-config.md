@@ -523,7 +523,7 @@
 		<tr>
 			<td>ui.solution_templates.docs_base_url</td>
 			<td>UI_SOLUTION_TEMPLATES_DOCS_BASE_URL</td>
-			<td>https://thingsboard.io/docs/pe</td>
+			<td>https://docs.sensef.ru/docs/pe</td>
 			<td> Base URL for solution templates docs</td>
 		</tr>
 	</tbody>
@@ -4586,7 +4586,7 @@
 		<tr>
 			<td>swagger.contact.url</td>
 			<td>SWAGGER_CONTACT_URL</td>
-			<td>https://thingsboard.io</td>
+			<td>https://docs.sensef.ru</td>
 			<td> The contact URL on the API doc UI page</td>
 		</tr>
 		<tr>

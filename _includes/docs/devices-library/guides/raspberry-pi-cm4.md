@@ -14,7 +14,7 @@ In this tutorial we will use Elastel EG500 as edge gateway to collect data from 
 
 ## Prerequisites
 
-To continue with this guide, you will need to have access to ThingsBoard Professional Edition. The easiest way is to use [ThingsBoard Cloud](https://thingsboard.io/installations/choose-region/){:target="_blank"} server.
+To continue with this guide, you will need to have access to ThingsBoard Professional Edition. The easiest way is to use [ThingsBoard Cloud](https://docs.sensef.ru/installations/choose-region/){:target="_blank"} server.
 The alternative option is to install ThingsBoard using [installation guide](/docs/user-guide/install/pe/installation-options/){:target="_blank"}.
 
 Also, you will require the following items:
@@ -138,4 +138,4 @@ Now we have a visualizing dashboard for displaying data and controlling the DO (
 By following this guide, you can easily integrate Elastel IIoT gateways with ThingsBoard. Elastel’s easy-to-use web UI and ThingsBoard’s powerful visualization tools make the edge-to-cloud connection seamless.
 
 - Learn more about [**Elastel Edge Devices**](https://www.elastel.com/products/){:target="_blank"}.
-- Explore ThingsBoard [**Documentation**](https://thingsboard.io/docs/pe/){:target="_blank"} for advanced features and concepts.
+- Explore ThingsBoard [**Documentation**](https://docs.sensef.ru/docs/pe/){:target="_blank"} for advanced features and concepts.

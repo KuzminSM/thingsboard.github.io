@@ -11,7 +11,7 @@
   links:
     0:
       label: Connect ACE MQTT 4G GPS Gateway to ThingsBoard
-      href: https://thingsboard.io/docs/devices-library/ace-iot-gateway-and-siemens-logo/
+      href: https://docs.sensef.ru/docs/devices-library/ace-iot-gateway-and-siemens-logo/
   description: ACE Automation Europe designs compact PLCs, touchscreen HMIs, and LTE/4G MQTT gateways. The “Nano ACE” series stands out for its ultra-low power consumption, compact form factor, and PCB-mount version. Our HMIs are powerful, affordable, and easy to use. The LTE/4G multi-operator gateway is ideal for remote IoT monitoring and control via MQTT.
 - type:
     - LoRaWAN
@@ -325,10 +325,10 @@
   links:
     0:
       label: ioTracker Multi-sensor tracker
-      href: "https://thingsboard.io/docs/pe/devices-library/iotracker-multi-sensor-tracker/"
+      href: "https://docs.sensef.ru/docs/pe/devices-library/iotracker-multi-sensor-tracker/"
     1:
       label: ioButton Panic button
-      href: "https://thingsboard.io/docs/pe/devices-library/iobutton-panic-button/"
+      href: "https://docs.sensef.ru/docs/pe/devices-library/iobutton-panic-button/"
   description: ioThings, the company behind the ioTracker and ioButton, is a Dutch company and was established in 2016 by three technology enthusiasts with a professional background in electronics, security, IT and telecom. We mainly operate in the domain of emergency response, together with indoor and outdoor localisation. Our devices are highly and easy configurable to make sure it can be finetuned for a lot of use cases.
 - type:
     - GSM/GPRS

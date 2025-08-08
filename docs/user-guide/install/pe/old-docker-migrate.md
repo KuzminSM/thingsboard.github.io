@@ -100,7 +100,7 @@ nano docker-compose.yml
 ```
 {: .copy-code}
 
-Copy current Docker Compose [manifest](https://thingsboard.io/docs/user-guide/install/pe/docker/#step-2-choose-thingsboard-queue-service) and replace old one with current manifest. Replace Postgres docker image if needed. 
+Copy current Docker Compose [manifest](https://docs.sensef.ru/docs/user-guide/install/pe/docker/#step-2-choose-thingsboard-queue-service) and replace old one with current manifest. Replace Postgres docker image if needed. 
 
 {% capture image_tags %}
 **Make sure that `thingsboard/tb-pe-node` and `thingsboard/tb-web-report` have the same tag as your previous manifests**
@@ -109,4 +109,4 @@ Copy current Docker Compose [manifest](https://thingsboard.io/docs/user-guide/in
 
 Don't forget to replace license key in the environment variables section.
 
-After data is moved to the docker volumes and `docker-compose.yml` file have the same structure as the installation example - you can proceed with [upgrade](https://thingsboard.io/docs/user-guide/install/pe/docker/#upgrading) of the ThingsBoard. 
+After data is moved to the docker volumes and `docker-compose.yml` file have the same structure as the installation example - you can proceed with [upgrade](https://docs.sensef.ru/docs/user-guide/install/pe/docker/#upgrading) of the ThingsBoard. 
