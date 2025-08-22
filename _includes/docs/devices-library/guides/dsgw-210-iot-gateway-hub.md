@@ -50,7 +50,7 @@ To continue with this guide we will need the following:
 ### ThingsBoard configuration
 
 The configuration steps in ThingsBoard are shown below, we will demonstrate on the {{hostName}} server.
-You can use [ThingsBoard Cloud](https://{{hostName}}/signup){:target="_blank"} or [install](https://thingsboard.io/docs/user-guide/install/pe/installation-options/){:target="_blank"} your own platform instance.
+You can use [ThingsBoard Cloud](https://{{hostName}}/signup){:target="_blank"} or [install](https://docs.sensef.ru/docs/user-guide/install/pe/installation-options/){:target="_blank"} your own platform instance.
 
 * [Step 1.1] Register and log in [ThingsBoard Cloud](https://{{hostName}}/signup){:target="_blank"};
 

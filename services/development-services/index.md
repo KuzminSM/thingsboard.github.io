@@ -27,90 +27,90 @@ description: "Fast delivery of scalable IoT solutions with fixed cost and timeli
         <section class="our-customers">
             <div class="customer-carousel">
                 <div class="customer-logos">
-                    <a class="logo" target="_blank" href="https://thingsboard.io/case-studies/">
+                    <a class="logo" target="_blank" href="https://docs.sensef.ru/case-studies/">
                         <img src="/images/development-services/Prosegur.webp" alt="Prosegur company logo"/>
                     </a>
-                    <a class="logo" target="_blank" href="https://thingsboard.io/case-studies/">
+                    <a class="logo" target="_blank" href="https://docs.sensef.ru/case-studies/">
                         <img src="/images/development-services/t-mobile.webp" alt="T-Mobile logo"/>
                     </a>
-                    <a class="logo" target="_blank" href="https://thingsboard.io/case-studies/">
+                    <a class="logo" target="_blank" href="https://docs.sensef.ru/case-studies/">
                         <img src="/images/development-services/Intel.webp" alt="Intel logo"/>
                     </a>
-                    <a class="logo" target="_blank" href="https://thingsboard.io/case-studies/">
+                    <a class="logo" target="_blank" href="https://docs.sensef.ru/case-studies/">
                         <img src="/images/development-services/Engie.webp" alt="Engie energy company logo"/>
                     </a>
-                    <a class="logo" target="_blank" href="https://thingsboard.io/case-studies/">
+                    <a class="logo" target="_blank" href="https://docs.sensef.ru/case-studies/">
                         <img src="/images/development-services/schwarz.webp" alt="Schwarz Group logo"/>
                     </a>
-                    <a class="logo" target="_blank" href="https://thingsboard.io/case-studies/">
+                    <a class="logo" target="_blank" href="https://docs.sensef.ru/case-studies/">
                         <img src="/images/development-services/bosch.webp" alt="Bosch Group logo"/>
                     </a>
-                    <a class="logo" target="_blank" href="https://thingsboard.io/case-studies/">
+                    <a class="logo" target="_blank" href="https://docs.sensef.ru/case-studies/">
                         <img src="/images/development-services/tectelic.webp" alt="Tectelic logo"/>
                     </a>
-                    <a class="logo" target="_blank" href="https://thingsboard.io/case-studies/">
+                    <a class="logo" target="_blank" href="https://docs.sensef.ru/case-studies/">
                         <img src="/images/development-services/kalitek.webp" alt="Kalitek logo"/>
                     </a>
-                    <a class="logo" target="_blank" href="https://thingsboard.io/case-studies/">
+                    <a class="logo" target="_blank" href="https://docs.sensef.ru/case-studies/">
                         <img src="/images/development-services/super-bock-group.webp" alt="Super Bock Group logo"/>
                     </a>
-                    <a class="logo" target="_blank" href="https://thingsboard.io/case-studies/">
+                    <a class="logo" target="_blank" href="https://docs.sensef.ru/case-studies/">
                         <img src="/images/development-services/asg-tech.webp" alt="ASGTECH logo"/>
                     </a>
-                    <a class="logo" target="_blank" href="https://thingsboard.io/case-studies/">
+                    <a class="logo" target="_blank" href="https://docs.sensef.ru/case-studies/">
                         <img src="/images/development-services/asl.webp" alt="Always Connected logo"/>
                     </a>
-                    <a class="logo" target="_blank" href="https://thingsboard.io/case-studies/">
+                    <a class="logo" target="_blank" href="https://docs.sensef.ru/case-studies/">
                         <img src="/images/development-services/iona-tech.webp" alt="Iona Tech logo"/>
                     </a>
-                    <a class="logo" target="_blank" href="https://thingsboard.io/case-studies/">
+                    <a class="logo" target="_blank" href="https://docs.sensef.ru/case-studies/">
                         <img src="/images/development-services/senseing-simple.webp" alt="Senseing logo"/>
                     </a>
-                    <a class="logo" target="_blank" href="https://thingsboard.io/case-studies/">
+                    <a class="logo" target="_blank" href="https://docs.sensef.ru/case-studies/">
                         <img src="/images/development-services/x-telia.webp" alt="X-Telia logo"/>
                     </a>
                 </div>
                 <div class="customer-logos">
-                    <a class="logo" target="_blank" href="https://thingsboard.io/case-studies/">
+                    <a class="logo" target="_blank" href="https://docs.sensef.ru/case-studies/">
                         <img src="/images/development-services/Prosegur.webp" alt="Prosegur company logo"/>
                     </a>
-                    <a class="logo" target="_blank" href="https://thingsboard.io/case-studies/">
+                    <a class="logo" target="_blank" href="https://docs.sensef.ru/case-studies/">
                         <img src="/images/development-services/t-mobile.webp" alt="T-Mobile logo"/>
                     </a>
-                    <a class="logo" target="_blank" href="https://thingsboard.io/case-studies/">
+                    <a class="logo" target="_blank" href="https://docs.sensef.ru/case-studies/">
                         <img src="/images/development-services/Intel.webp" alt="Intel logo"/>
                     </a>
-                    <a class="logo" target="_blank" href="https://thingsboard.io/case-studies/">
+                    <a class="logo" target="_blank" href="https://docs.sensef.ru/case-studies/">
                         <img src="/images/development-services/Engie.webp" alt="Engie energy company logo"/>
                     </a>
-                    <a class="logo" target="_blank" href="https://thingsboard.io/case-studies/">
+                    <a class="logo" target="_blank" href="https://docs.sensef.ru/case-studies/">
                         <img src="/images/development-services/schwarz.webp" alt="Schwarz Group logo"/>
                     </a>
-                    <a class="logo" target="_blank" href="https://thingsboard.io/case-studies/">
+                    <a class="logo" target="_blank" href="https://docs.sensef.ru/case-studies/">
                         <img src="/images/development-services/bosch.webp" alt="Bosch Group logo"/>
                     </a>
-                    <a class="logo" target="_blank" href="https://thingsboard.io/case-studies/">
+                    <a class="logo" target="_blank" href="https://docs.sensef.ru/case-studies/">
                         <img src="/images/development-services/tectelic.webp" alt="Tectelic logo"/>
                     </a>
-                    <a class="logo" target="_blank" href="https://thingsboard.io/case-studies/">
+                    <a class="logo" target="_blank" href="https://docs.sensef.ru/case-studies/">
                         <img src="/images/development-services/kalitek.webp" alt="Kalitek logo"/>
                     </a>
-                    <a class="logo" target="_blank" href="https://thingsboard.io/case-studies/">
+                    <a class="logo" target="_blank" href="https://docs.sensef.ru/case-studies/">
                         <img src="/images/development-services/super-bock-group.webp" alt="Super Bock Group logo"/>
                     </a>
-                    <a class="logo" target="_blank" href="https://thingsboard.io/case-studies/">
+                    <a class="logo" target="_blank" href="https://docs.sensef.ru/case-studies/">
                         <img src="/images/development-services/asg-tech.webp" alt="ASGTECH logo"/>
                     </a>
-                    <a class="logo" target="_blank" href="https://thingsboard.io/case-studies/">
+                    <a class="logo" target="_blank" href="https://docs.sensef.ru/case-studies/">
                         <img src="/images/development-services/asl.webp" alt="Always Connected logo"/>
                     </a>
-                    <a class="logo" target="_blank" href="https://thingsboard.io/case-studies/">
+                    <a class="logo" target="_blank" href="https://docs.sensef.ru/case-studies/">
                         <img src="/images/development-services/iona-tech.webp" alt="Iona Tech logo"/>
                     </a>
-                    <a class="logo" target="_blank" href="https://thingsboard.io/case-studies/">
+                    <a class="logo" target="_blank" href="https://docs.sensef.ru/case-studies/">
                         <img src="/images/development-services/senseing-simple.webp" alt="Senseing logo"/>
                     </a>
-                    <a class="logo" target="_blank" href="https://thingsboard.io/case-studies/">
+                    <a class="logo" target="_blank" href="https://docs.sensef.ru/case-studies/">
                         <img src="/images/development-services/x-telia.webp" alt="X-Telia logo"/>
                     </a>
                 </div>
@@ -301,7 +301,7 @@ description: "Fast delivery of scalable IoT solutions with fixed cost and timeli
                 <div class="ellipse-bottom"></div>
                 <div class="card">
                     <div class="card-tag retail">Retail & consumer service</div>
-                    <a target="_blank" class="navigate-to-client-page" href="https://thingsboard.io/case-studies/schwarz/">
+                    <a target="_blank" class="navigate-to-client-page" href="https://docs.sensef.ru/case-studies/schwarz/">
                         <img src="/images/case-studies/schwarz.webp" alt="A Schwarz Group (Lidl) store building with signs, symbolizing retail digitalization with ThingsBoard." class="card-image" />
                         <div class="card-content">
                             <h3>IoT in retail: how Schwarz Group accelerated digitalization with ThingsBoard</h3>
@@ -315,7 +315,7 @@ description: "Fast delivery of scalable IoT solutions with fixed cost and timeli
                 </div>
                 <div class="card">
                     <div class="card-tag manufacturing">Manufacturing</div>
-                    <a target="_blank" class="navigate-to-client-page" href="https://thingsboard.io/case-studies/super-bock/">
+                    <a target="_blank" class="navigate-to-client-page" href="https://docs.sensef.ru/case-studies/super-bock/">
                         <img src="/images/case-studies/super-bock-group.webp" alt="Superbock" class="A partial view of a production hall with tanks featuring the Super Bock Group logo, illustrating the revolution in beer distribution using ThingsBoard." class="card-image" />
                         <div class="card-content">
                             <h3>Revolutionizing beer distribution: how ThingsBoard empowered Super Bock Group</h3>
@@ -329,7 +329,7 @@ description: "Fast delivery of scalable IoT solutions with fixed cost and timeli
                 </div>
                 <div class="card">
                     <div class="card-tag manufacturing">Industry 4.0</div>
-                    <a target="_blank" class="navigate-to-client-page" href="https://thingsboard.io/case-studies/iona/">
+                    <a target="_blank" class="navigate-to-client-page" href="https://docs.sensef.ru/case-studies/iona/">
                         <img src="/images/case-studies/iona-tech.webp" alt="A worker in protective glasses at an IONA Tech manufacturing facility, working with electronics, showing the protection of electronics and workers through IoT transformation with ThingsBoard." class="card-image" />
                         <div class="card-content">
                             <h3>Protecting electronics and workers: IONA Tech’s IoT transformation with ThingsBoard</h3>
@@ -343,7 +343,7 @@ description: "Fast delivery of scalable IoT solutions with fixed cost and timeli
                 </div>
                 <div class="card">
                     <div class="card-tag energy">Energy and utilities</div>
-                    <a target="_blank" class="navigate-to-client-page" href="https://thingsboard.io/case-studies/oxi/">
+                    <a target="_blank" class="navigate-to-client-page" href="https://docs.sensef.ru/case-studies/oxi/">
                         <img src="/images/case-studies/oxi.webp" alt="A worker in a protective helmet and goggles, working with pellet burner equipment, symbolizing the optimization of IoT infrastructure for OXI TRADE's alternative energy." class="card-image" />
                         <div class="card-content">
                             <h3>Empowering alternative energy: how OXI TRADE streamlined IoT infrastructure with ThingsBoard</h3>
@@ -357,7 +357,7 @@ description: "Fast delivery of scalable IoT solutions with fixed cost and timeli
                 </div>
                 <div class="card">
                     <div class="card-tag infrastructure">Infrastructure</div>
-                    <a target="_blank" class="navigate-to-client-page" href="https://thingsboard.io/case-studies/obb-infra/">
+                    <a target="_blank" class="navigate-to-client-page" href="https://docs.sensef.ru/case-studies/obb-infra/">
                         <img src="/images/case-studies/obb.webp" alt="Railway tracks and trains, representing the digital transformation of ÖBB-Infrastruktur AG's smart railway infrastructure" class="card-image" />
                         <div class="card-content">
                             <h3>Smart railway infrastructure: digital transformation of ÖBB-Infrastruktur AG</h3>
@@ -371,7 +371,7 @@ description: "Fast delivery of scalable IoT solutions with fixed cost and timeli
                 </div>
                 <div class="card">
                     <div class="card-tag logistics">Logistic & Supply-chain</div>
-                    <a target="_blank" class="navigate-to-client-page" href="https://thingsboard.io/case-studies/senseing/">
+                    <a target="_blank" class="navigate-to-client-page" href="https://docs.sensef.ru/case-studies/senseing/">
                         <img src="/images/case-studies/senseing.webp" alt="A truck with refrigeration equipment and containers of fresh produce, illustrating the transformation of food logistics with IoT-powered temperature monitoring in the cold chain." class="card-image" />
                         <div class="card-content">
                             <h3>Transforming food logistics with IoT-powered temperature monitoring</h3>

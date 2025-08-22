@@ -223,7 +223,7 @@ If these nodes are missing, the result **will not be saved** and will not appear
 ## Data reprocessing
 
 {% if docsPrefix == null %}
-> The **telemetry data reprocessing** feature is available only in [ThingsBoard PE](https://thingsboard.io/docs/user-guide/install/pe/installation-options/){:target="_blank"} and [ThingsBoard Cloud](https://thingsboard.io/installations/choose-region/){:target="_blank"} editions.
+> The **telemetry data reprocessing** feature is available only in [ThingsBoard PE](https://docs.sensef.ru/docs/user-guide/install/pe/installation-options/){:target="_blank"} and [ThingsBoard Cloud](https://docs.sensef.ru/installations/choose-region/){:target="_blank"} editions.
 
 {% endif %}
 

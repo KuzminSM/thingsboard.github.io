@@ -49,7 +49,7 @@ DEFINITIONS
 
 **“Uplink”** means an incoming message from the device or third-party system to the Software.
 
-**“Website/Company’s website”** means the https://thingsboard.io website that is owned by the Licensor.
+**“Website/Company’s website”** means the https://docs.sensef.ru website that is owned by the Licensor.
 
 <br>
 RECITALS

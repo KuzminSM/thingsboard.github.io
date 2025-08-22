@@ -25,7 +25,7 @@ ThingsBoard Team has already provisioned a valid certificate for [{{hostLabel}}]
 Please download the CA root certificate using this [**link**](/docs/{{docsPrefix}}user-guide/resources/mqtt-over-ssl/ca-root.pem) and save it to your working directory as "**ca-root.pem**".
 
 ```bash
-wget https://thingsboard.io/docs/{{docsPrefix}}user-guide/resources/mqtt-over-ssl/ca-root.pem
+wget https://docs.sensef.ru/docs/{{docsPrefix}}user-guide/resources/mqtt-over-ssl/ca-root.pem
 ```
 {: .copy-code}
 

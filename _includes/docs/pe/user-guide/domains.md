@@ -169,7 +169,7 @@ mycompany.thingsboard.space. 3600 IN	CNAME	eu.thingsboard.cloud
 ...
 ```
 
-If all the things are correct, but some issue still persists - please [contact us](https://thingsboard.io/docs/contact-us/){:target="_blank"} for further support.
+If all the things are correct, but some issue still persists - please [contact us](https://docs.sensef.ru/docs/contact-us/){:target="_blank"} for further support.
 
 ## Next step
 

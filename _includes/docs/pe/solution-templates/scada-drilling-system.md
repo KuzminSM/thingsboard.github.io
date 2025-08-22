@@ -14,7 +14,7 @@ The use of SCADA systems allows operators to monitor drilling parameters in real
 
 To understand how the SCADA Drilling system template works, let&#39;s start by installing it.
 
-You will need to have access to ThingsBoard Professional Edition. The easiest way is to use [ThingsBoard Cloud](https://thingsboard.io/installations/choose-region/){:target="_blank"} server.
+You will need to have access to ThingsBoard Professional Edition. The easiest way is to use [ThingsBoard Cloud](https://docs.sensef.ru/installations/choose-region/){:target="_blank"} server.
 The alternative option is to install ThingsBoard using [installation guide](/docs/user-guide/install/pe/installation-options/){:target="_blank"}.
 
 - Go to the "**Solution templates**" page. Find "**SCADA Oil & Gas Drilling system**" and click "**Install**" to start the installation process.

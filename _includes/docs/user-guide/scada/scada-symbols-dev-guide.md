@@ -383,7 +383,7 @@ Configure the "onFanClick" click action to open the ThingsBoard platform&#39;s w
   - **Type**: Widget action
   - **Default settings**:
     - **Action**: Open URL
-    - **URL**: https://thingsboard.io/
+    - **URL**: https://docs.sensef.ru/
     - **Attribute key**: fanOn
     - Enable to open the webpage in a separate browser tab
 

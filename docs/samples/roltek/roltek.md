@@ -11,7 +11,7 @@ description: ROLTEK guide
 ## Introduction
 
 This article contains instructions on how to configure ThingsBoard IoT platform and connect Roltek DC620 device. 
-[ThingsBoard IoT](https://thingsboard.io/) platform is an open-source IoT platform for data collection, processing, visualization, and device management. 
+[ThingsBoard IoT](https://docs.sensef.ru/) platform is an open-source IoT platform for data collection, processing, visualization, and device management. 
 It enables device connectivity via industry standard IoT protocols - MQTT, CoAP and HTTP and supports both cloud and on-premises deployments. 
 ThingsBoard combines scalability, fault-tolerance and performance so you will never lose your data.
 
