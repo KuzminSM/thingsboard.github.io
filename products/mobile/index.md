@@ -33,8 +33,8 @@ description:
                         </div>
                         <div class="frame-video">
                             <video autoplay loop preload="auto" muted playsinline>
-                                 <source src="https://video.thingsboard.io/mobile/browse-dashboards.mp4" type="video/mp4">
-                                 <source src="https://video.thingsboard.io/mobile/browse-dashboards.webm" type="video/webm">
+                                 <source src="https://docs.sensef.ru/images/mobile/browse-dashboards.mp4" type="video/mp4">
+                                 <source src="https://docs.sensef.ru/images/mobile/browse-dashboards.webm" type="video/webm">
                             </video>
                         </div>
                     </div>
