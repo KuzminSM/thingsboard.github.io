@@ -1799,7 +1799,7 @@ selfManagedPlan:
                     </div>
                     <div class="item" data-tag="h4" data-item-id="ce-pe-difference" data-title="How does the Community Edition differ from Professional Edition?">
                         <div class="container">
-                            <p>Community Edition includes essential features for IoT device management, data collection, visualization, and rule processing. The Professional Edition offers advanced features such as white-labeling, RBAC, integrations, etc. You can find a more detailed comparison <a href="https://thingsboard.io/products/thingsboard-pe/">here</a>.</p>
+                            <p>Community Edition includes essential features for IoT device management, data collection, visualization, and rule processing. The Professional Edition offers advanced features such as white-labeling, RBAC, integrations, etc. You can find a more detailed comparison <a href="https://docs.sensef.ru/products/thingsboard-pe/">here</a>.</p>
                         </div>
                     </div>
                     <div class="item" data-tag="h4" data-item-id="ce-connect-devices-limit" data-title="Is there a limit on the number of devices I can connect?">
@@ -1809,7 +1809,7 @@ selfManagedPlan:
                     </div>
                     <div class="item" data-tag="h4" data-item-id="possible-migrate-ce-to-pe-sm" data-title="Is it possible to migrate from the Community Edition to the self-managed ThingsBoard Professional Edition?">
                         <div class="container">
-                            <p>Yes, you can upgrade from ThingsBoard Community Edition to Professional Edition without losing telemetry data and/or configurations. The upgrade process preserves your existing setup, ensuring a seamless transition. However, <b>please note</b> that any custom modifications made directly to the source code of the Community Edition will be removed during the upgrade process. For more information about the migration procedure, please <a href="https://thingsboard.io/docs/contact-us/">contact us</a>.</p>
+                            <p>Yes, you can upgrade from ThingsBoard Community Edition to Professional Edition without losing telemetry data and/or configurations. The upgrade process preserves your existing setup, ensuring a seamless transition. However, <b>please note</b> that any custom modifications made directly to the source code of the Community Edition will be removed during the upgrade process. For more information about the migration procedure, please <a href="https://docs.sensef.ru/docs/contact-us/">contact us</a>.</p>
                         </div>
                     </div>
                     <div class="load-more" onClick="loadMoreFaq(this)">
@@ -1817,12 +1817,12 @@ selfManagedPlan:
                     </div>
                     <div class="item hidden" data-tag="h4" data-item-id="possible-migrate-ce-to-cloud" data-title="Is it possible to migrate from the Community Edition to the ThingsBoard Cloud?">
                         <div class="container">
-                            <p>Yes, migration from the Community Edition to ThingsBoard Cloud is possible but is not 100% automatic. We recommend to use <a href="https://thingsboard.io/docs/user-guide/version-control/#usage">version control</a> feature to migrate all entities. Then you may transfer telemetry data using the <a href="https://thingsboard.io/docs/reference/rest-api/">REST API</a>. For more information about the migration procedure, please <a href="https://thingsboard.io/docs/contact-us/">contact us</a>.</p>
+                            <p>Yes, migration from the Community Edition to ThingsBoard Cloud is possible but is not 100% automatic. We recommend to use <a href="https://docs.sensef.ru/docs/user-guide/version-control/#usage">version control</a> feature to migrate all entities. Then you may transfer telemetry data using the <a href="https://docs.sensef.ru/docs/reference/rest-api/">REST API</a>. For more information about the migration procedure, please <a href="https://docs.sensef.ru/docs/contact-us/">contact us</a>.</p>
                         </div>
                     </div>
                     <div class="item hidden" data-tag="h4" data-item-id="ce-clustering" data-title="Does the Community Edition support clustering?">
                         <div class="container">
-                            <p>Yes, clustering is fully supported in the Community Edition. You can find more details about deployment scenarios <a href="https://thingsboard.io/docs/reference/iot-platform-deployment-scenarios/">here</a>.</p>
+                            <p>Yes, clustering is fully supported in the Community Edition. You can find more details about deployment scenarios <a href="https://docs.sensef.ru/docs/reference/iot-platform-deployment-scenarios/">here</a>.</p>
                         </div>
                     </div>
                     <div class="item hidden" data-tag="h4" data-item-id="ce-customize" data-title="Can I customize and modify the Community Edition?">
@@ -1839,7 +1839,7 @@ selfManagedPlan:
                 <div id="faq-thingsboard-ce-installationAndDeployment" class="pi-accordion">
                     <div class="item" data-tag="h4" data-item-id="how-to-install-ce" data-title="How do I install ThingsBoard Community Edition?">
                         <div class="container">
-                            <p>Installation guides are available in the <a href="https://thingsboard.io/docs/user-guide/install/installation-options/?ceInstallType=onPremise">documentation</a>. The Community Edition can be installed in monolith or microservice cluster mode, and supports deployment on Docker, Kubernetes, or directly on Linux/Windows OS.</p>
+                            <p>Installation guides are available in the <a href="https://docs.sensef.ru/docs/user-guide/install/installation-options/?ceInstallType=onPremise">documentation</a>. The Community Edition can be installed in monolith or microservice cluster mode, and supports deployment on Docker, Kubernetes, or directly on Linux/Windows OS.</p>
                         </div>
                     </div>
                     <div class="item" data-tag="h4" data-item-id="where-to-install-ce" data-title="Where can I install the Community Edition?">
@@ -1849,7 +1849,7 @@ selfManagedPlan:
                     </div>
                     <div class="item" data-tag="h4" data-item-id="ce-database-support" data-title="What databases does the Community Edition support?">
                         <div class="container">
-                            <p>The Community Edition supports pure SQL or a hybrid SQL + NoSQL (for telemetry storage) . For more details on database options, you can check <a href="https://thingsboard.io/docs/reference/#sql-vs-nosql-vs-hybrid-database-approach">here</a>.</p>
+                            <p>The Community Edition supports pure SQL or a hybrid SQL + NoSQL (for telemetry storage) . For more details on database options, you can check <a href="https://docs.sensef.ru/docs/reference/#sql-vs-nosql-vs-hybrid-database-approach">here</a>.</p>
                         </div>
                     </div>
                     <div class="item" data-tag="h4" data-item-id="official-docker-ce" data-title="Is there an official Docker image for Community Edition?">
@@ -1859,12 +1859,12 @@ selfManagedPlan:
                     </div>
                     <div class="item" data-tag="h4" data-item-id="ce-on-raspberry-edge" data-title="Can I run the Community Edition on Raspberry Pi or other edge devices?">
                         <div class="container">
-                            <p>Yes, but performance may be limited due to hardware constraints. You can check details <a href="https://thingsboard.io/docs/user-guide/install/installation-options/">here</a>.</p>
+                            <p>Yes, but performance may be limited due to hardware constraints. You can check details <a href="https://docs.sensef.ru/docs/user-guide/install/installation-options/">here</a>.</p>
                         </div>
                     </div>
                     <div class="item" data-tag="h4" data-item-id="ce-multi-tenancy" data-title="Does the Community Edition support multi-tenancy?">
                         <div class="container">
-                            <p>Yes, the ThingsBoard Community Edition supports <a href="https://thingsboard.io/docs/user-guide/ui/tenants/">multi-tenancy</a> out of the box.</p>
+                            <p>Yes, the ThingsBoard Community Edition supports <a href="https://docs.sensef.ru/docs/user-guide/ui/tenants/">multi-tenancy</a> out of the box.</p>
                         </div>
                     </div>
                     <div class="load-more" onClick="loadMoreFaq(this)">
@@ -1872,7 +1872,7 @@ selfManagedPlan:
                     </div>
                     <div class="item hidden" data-tag="h4" data-item-id="ce-scale-deployment" data-title="How can I scale a Community Edition deployment?">
                         <div class="container">
-                            <p>You can scale the Community Edition horizontally by using a <a href="https://thingsboard.io/docs/reference/msa/">microservice</a> deployment.</p>
+                            <p>You can scale the Community Edition horizontally by using a <a href="https://docs.sensef.ru/docs/reference/msa/">microservice</a> deployment.</p>
                         </div>
                     </div>
                 </div>
@@ -1880,13 +1880,13 @@ selfManagedPlan:
                     <div class="item" data-tag="h4" data-item-id="ce-features" data-title="What features are included in ThingsBoard Community Edition?">
                         <div class="container">
                             <p>
-                                The Community Edition includes device and asset management, data visualization, rule engine automation, and API integrations. You can find all features and descriptions <a href="https://thingsboard.io/docs/">here</a>. 
+                                The Community Edition includes device and asset management, data visualization, rule engine automation, and API integrations. You can find all features and descriptions <a href="https://docs.sensef.ru/docs/">here</a>. 
                             </p>    
                         </div>    
                     </div>
                     <div class="item" data-tag="h4" data-item-id="pe-exclusive-features" data-title="What features are exclusive to the Professional Edition?">
                         <div class="container">
-                            <p>The Professional Edition offers advanced features such as white-labeling, RBAC, advanced rule engine capabilities, platform integrations, etc. You can find a more detailed comparison <a href="https://thingsboard.io/products/thingsboard-pe/">here</a>.</p>    
+                            <p>The Professional Edition offers advanced features such as white-labeling, RBAC, advanced rule engine capabilities, platform integrations, etc. You can find a more detailed comparison <a href="https://docs.sensef.ru/products/thingsboard-pe/">here</a>.</p>    
                         </div>    
                     </div>
                     <div class="item" data-tag="h4" data-item-id="ce-white-labeling-support" data-title="Does the Community Edition support white-labeling?">
@@ -1896,12 +1896,12 @@ selfManagedPlan:
                     </div>
                     <div class="item" data-tag="h4" data-item-id="ce-other-build-in-security-features" data-title="Are there any built-in security features?">
                         <div class="container">
-                            <p>Yes, the Community Edition supports secure <a href="https://thingsboard.io/docs/user-guide/device-credentials/">device connectivity</a> options, <a href="https://thingsboard.io/docs/user-guide/oauth-2-support/">OAuth</a> configuration, and <a href="https://thingsboard.io/docs/domains/">domain management</a>.</p>    
+                            <p>Yes, the Community Edition supports secure <a href="https://docs.sensef.ru/docs/user-guide/device-credentials/">device connectivity</a> options, <a href="https://docs.sensef.ru/docs/user-guide/oauth-2-support/">OAuth</a> configuration, and <a href="https://docs.sensef.ru/docs/domains/">domain management</a>.</p>    
                         </div>    
                     </div>
                     <div class="item" data-tag="h4" data-item-id="ce-third-party-systems" data-title="Can I integrate third-party systems with Community Edition?">
                         <div class="container">
-                            <p>Yes, you can integrate the ThingsBoard Community Edition with third-party systems through REST APIs or Rule Engine. Please note that the Professional Edition of the platform provides more integration option via <a href="https://thingsboard.io/docs/user-guide/integrations/">platform integrations</a>.</p>
+                            <p>Yes, you can integrate the ThingsBoard Community Edition with third-party systems through REST APIs or Rule Engine. Please note that the Professional Edition of the platform provides more integration option via <a href="https://docs.sensef.ru/docs/user-guide/integrations/">platform integrations</a>.</p>
                         </div>
                     </div>
                     <div class="item hidden" data-tag="h4" data-item-id="ce-automate-device-management-telemetry-processing" data-title="Can I automate device management and telemetry processing?">
@@ -1914,17 +1914,17 @@ selfManagedPlan:
                     </div>
                     <div class="item hidden" data-tag="h4" data-item-id="ce-ota-support" data-title="Does Community Edition support OTA (Over-the-Air) firmware updates?">
                         <div class="container">
-                            <p>Yes, the Community Edition supports <a href="https://thingsboard.io/docs/user-guide/ota-updates/">OTA</a> (Over-the-Air) firmware updates.</p>
+                            <p>Yes, the Community Edition supports <a href="https://docs.sensef.ru/docs/user-guide/ota-updates/">OTA</a> (Over-the-Air) firmware updates.</p>
                         </div>
                     </div>
                     <div class="item hidden" data-tag="h4" data-item-id="ce-mobile-app" data-title="Is there a mobile app for Community Edition?">
                         <div class="container">
-                            <p>Yes, there is an <a href="https://thingsboard.io/products/mobile/">mobile app</a> for the Community Edition, based on the Flutter SDK. It is free of charge and open-source under Apache 2.0 license.</p>
+                            <p>Yes, there is an <a href="https://docs.sensef.ru/products/mobile/">mobile app</a> for the Community Edition, based on the Flutter SDK. It is free of charge and open-source under Apache 2.0 license.</p>
                         </div>
                     </div>
                     <div class="item hidden" data-tag="h4" data-item-id="ce-ai-ml-integrations" data-title="Does Community Edition support AI or machine learning integrations?">
                         <div class="container">
-                            <p>Not natively, but you can use it with <a href="https://thingsboard.io/products/trendz/">Trendz Analytics</a> or integrate external AI/ML services via APIs or use </p>
+                            <p>Not natively, but you can use it with <a href="https://docs.sensef.ru/products/trendz/">Trendz Analytics</a> or integrate external AI/ML services via APIs or use </p>
                         </div>
                     </div>
                 </div>
@@ -1936,14 +1936,14 @@ selfManagedPlan:
                     </div>
                     <div class="item" data-tag="h4" data-item-id="ce-purchase-additional-support" data-title="Can I purchase additional support for the Community Edition?">
                         <div class="container">
-                            <p>Depending on the type of support you are looking for, the ThingsBoard team may be able to offer certain types of additional support packages. To discuss your unique case and requirements, please <a href="https://thingsboard.io/docs/contact-us/">contact us</a>.</p>  
+                            <p>Depending on the type of support you are looking for, the ThingsBoard team may be able to offer certain types of additional support packages. To discuss your unique case and requirements, please <a href="https://docs.sensef.ru/docs/contact-us/">contact us</a>.</p>  
                         </div>    
                     </div>
                     <div class="item" data-tag="h4" data-item-id="ce-help-issue" data-title="Where can I get help if I run into issues?">
                         <div class="container">
                             <p><a href="https://github.com/thingsboard/">GitHub</a> (report issues, contribute)</p>
                             <p><a href="https://stackoverflow.com/questions/tagged/thingsboard">Stack Overflow</a> (for developer-related questions)</p>
-                            <p><a href="https://thingsboard.io/docs/">Documentation & Tutorials</a></p>
+                            <p><a href="https://docs.sensef.ru/docs/">Documentation & Tutorials</a></p>
                         </div>    
                     </div>
                     <div class="item" data-tag="h4" data-item-id="ce-request-custom-feature" data-title="Can I request custom features or improvements?">
@@ -1953,12 +1953,12 @@ selfManagedPlan:
                     </div>
                     <div class="item" data-tag="h4" data-item-id="ce-pay-for-development" data-title="Can I pay for additional features to be developed?">
                         <div class="container">
-                            <p>The ThingsBoard team can propose application configuration services. To discuss your unique case and requirements, please <a href="https://thingsboard.io/docs/contact-us/">contact us</a>.</p>
+                            <p>The ThingsBoard team can propose application configuration services. To discuss your unique case and requirements, please <a href="https://docs.sensef.ru/docs/contact-us/">contact us</a>.</p>
                         </div>    
                     </div>
                     <div class="item" data-tag="h4" data-item-id="ce-soft-updates" data-title="Are software updates available for Community Edition?">
                         <div class="container">
-                            <p>Yes, updates for all <a href="https://thingsboard.io/docs/reference/releases/">versions</a> are available.</p>
+                            <p>Yes, updates for all <a href="https://docs.sensef.ru/docs/reference/releases/">versions</a> are available.</p>
                         </div>    
                     </div>
                     <div class="load-more" onClick="loadMoreFaq(this)">
@@ -1966,7 +1966,7 @@ selfManagedPlan:
                     </div>
                     <div class="item hidden" data-tag="h4" data-item-id="ce-tb-developers-paid-service" data-title="Can I get ThingsBoard developers to help with my Community Edition deployment?">
                         <div class="container">
-                            <p>Yes, you can request such assistance as an additional paid service. Please, <a href="https://thingsboard.io/docs/contact-us/">contact us</a> to discuss how we can help.</p>
+                            <p>Yes, you can request such assistance as an additional paid service. Please, <a href="https://docs.sensef.ru/docs/contact-us/">contact us</a> to discuss how we can help.</p>
                         </div>    
                     </div>
                     <div class="item hidden" data-tag="h4" data-item-id="ce-bug-found" data-title="What should I do if I find a bug in Community Edition?">
@@ -2005,12 +2005,12 @@ selfManagedPlan:
                     </div>
                     <div class="item" data-tag="h4" data-item-id="migrate-pe-to-enterprise" data-title="How do I migrate from Professional Edition to Enterprise?">
                         <div class="container">
-                            <p>Migration depends on factors such as whether you are migrating to a self-managed system or ThingsBoard Cloud, the version, source code changes, and more. Please <a href="https://thingsboard.io/docs/contact-us/">contact us</a> for personalized suggestions and a clear strategy on how to perform the migration.</p>
+                            <p>Migration depends on factors such as whether you are migrating to a self-managed system or ThingsBoard Cloud, the version, source code changes, and more. Please <a href="https://docs.sensef.ru/docs/contact-us/">contact us</a> for personalized suggestions and a clear strategy on how to perform the migration.</p>
                         </div>    
                     </div>
                     <div class="item" data-tag="h4" data-item-id="enterprise-trial" data-title="Can I get a trial of the Enterprise Edition before upgrading?">
                         <div class="container">
-                            <p>Yes, we offer a one-month trial on ThingsBoard Cloud for users considering an upgrade. If you would like to try the system in self-managed mode, please <a href="https://thingsboard.io/docs/contact-us/">contact us</a>.</p>  
+                            <p>Yes, we offer a one-month trial on ThingsBoard Cloud for users considering an upgrade. If you would like to try the system in self-managed mode, please <a href="https://docs.sensef.ru/docs/contact-us/">contact us</a>.</p>  
                         </div>    
                     </div>
                 </div>
@@ -2057,22 +2057,22 @@ selfManagedPlan:
                     </div>
                     <div class="item" data-tag="h4" data-item-id="tb-cloud-pricing-plans" data-title="What pricing plans does ThingsBoard Cloud offer?">
                         <div class="container">
-                            <p>ThingsBoard Cloud offers flexible monthly subscription plans, with tiers based on the number of devices and the volume of messages they generate. We support 5 predefined plans to cater to different needs. The beginner plan includes support for up to 30 devices and 10 million data points. For more details, visit the ThingsBoard Cloud <a href="https://thingsboard.io/pricing/?product=thingsboard-cloud">pricing</a> page.</p>
+                            <p>ThingsBoard Cloud offers flexible monthly subscription plans, with tiers based on the number of devices and the volume of messages they generate. We support 5 predefined plans to cater to different needs. The beginner plan includes support for up to 30 devices and 10 million data points. For more details, visit the ThingsBoard Cloud <a href="https://docs.sensef.ru/pricing/?product=thingsboard-cloud">pricing</a> page.</p>
                         </div>
                     </div>
                     <div class="item" data-tag="h4" data-item-id="tb-cloud-pricing-structure" data-title="How is ThingsBoard Cloud pricing structured?">
                         <div class="container">
-                            <p>Pricing is based on the number of connected devices and the volume of messages they generate, with a fixed monthly fee per plan. Learn more about the subscription plans <a href="https://thingsboard.io/docs/paas/subscription/">here</a>.</p>
+                            <p>Pricing is based on the number of connected devices and the volume of messages they generate, with a fixed monthly fee per plan. Learn more about the subscription plans <a href="https://docs.sensef.ru/docs/paas/subscription/">here</a>.</p>
                         </div>
                     </div>
                     <div class="item" data-tag="h4" data-item-id="tb-cloud-no-enterprise-pricing-listed" data-title="Why is there no listed price for the Enterprise subscription?">
                         <div class="container">
-                            <p>The Enterprise subscription is a fully managed cloud solution with a dedicated environment established for each customer upon request. Pricing is customized based on the specific infrastructure, resources, and service requirements of the customer. Please contact us to discuss your needs and receive a tailored quote. For more details please, <a href="https://thingsboard.io/docs/contact-us/">contact us</a>.</p>
+                            <p>The Enterprise subscription is a fully managed cloud solution with a dedicated environment established for each customer upon request. Pricing is customized based on the specific infrastructure, resources, and service requirements of the customer. Please contact us to discuss your needs and receive a tailored quote. For more details please, <a href="https://docs.sensef.ru/docs/contact-us/">contact us</a>.</p>
                         </div>
                     </div>
                     <div class="item" data-tag="h4" data-item-id="tb-cloud-api-rate-limits" data-title="Are there any API or rate limits?">
                         <div class="container">
-                            <p>Yes, each plan has specific API and rate limits. You can review the detailed limits for each plan <a href="https://thingsboard.io/docs/paas/subscription/">here</a>.</p>
+                            <p>Yes, each plan has specific API and rate limits. You can review the detailed limits for each plan <a href="https://docs.sensef.ru/docs/paas/subscription/">here</a>.</p>
                         </div>
                     </div>
                     <div class="item" data-tag="h4" data-item-id="tb-cloud-free-trial" data-title="Do you offer a free trial?">
@@ -2117,7 +2117,7 @@ selfManagedPlan:
                     </div>
                     <div class="item hidden" data-tag="h4" data-item-id="tb-cloud-custom-plan" data-title="Can I create a custom plan with the ability to choose limits for devices, assets, users, etc.?">
                         <div class="container">
-                            <p>ThingsBoard Cloud does not offer fully customizable plans with user-defined limits. However, the Enterprise subscription provides a dedicated environment with no device number or data point limits. If you require a customized solution, please <a href="https://thingsboard.io/docs/contact-us/">contact us</a> to discuss available options.</p>
+                            <p>ThingsBoard Cloud does not offer fully customizable plans with user-defined limits. However, the Enterprise subscription provides a dedicated environment with no device number or data point limits. If you require a customized solution, please <a href="https://docs.sensef.ru/docs/contact-us/">contact us</a> to discuss available options.</p>
                         </div>
                     </div>
                     <div class="item hidden" data-tag="h4" data-item-id="tb-cloud-short-term-project" data-title="Can I purchase ThingsBoard Cloud for a short-term project?">
@@ -2127,17 +2127,17 @@ selfManagedPlan:
                     </div>
                     <div class="item hidden" data-tag="h4" data-item-id="tb-cloud-how-cancel-supscription" data-title="How to cancel my subscription?">
                         <div class="container">
-                            <p>Kindly refer to the guide <a href="https://thingsboard.io/docs/paas/eu/subscription/#how-to-cancel-my-subscription">here</a>.</p>
+                            <p>Kindly refer to the guide <a href="https://docs.sensef.ru/docs/paas/eu/subscription/#how-to-cancel-my-subscription">here</a>.</p>
                         </div>
                     </div>
                     <div class="item hidden" data-tag="h4" data-item-id="migrate-cloud-to-sm" data-title="How to migrate from the Cloud to a self-managed platform instance?">
                         <div class="container">
-                            <p>We recommend using the <a href="https://thingsboard.io/docs/user-guide/version-control/">Version control</a> feature to migrate your configurations. Telemetry data export can be achieved via REST API. Please, <a href="https://thingsboard.io/docs/contact-us/">contact us</a> in case migration assistence needed.</p>
+                            <p>We recommend using the <a href="https://docs.sensef.ru/docs/user-guide/version-control/">Version control</a> feature to migrate your configurations. Telemetry data export can be achieved via REST API. Please, <a href="https://docs.sensef.ru/docs/contact-us/">contact us</a> in case migration assistence needed.</p>
                         </div>
                     </div>
                     <div class="item hidden" data-tag="h4" data-item-id="tb-cloud-us-to-eu" data-title="I need to move from US cloud to EU. How to achieve that?">
                         <div class="container">
-                            <p>Technically, you have to follow the same flow as for How to migrate from the Cloud to a self-service platform copy. Please, <a href="https://thingsboard.io/docs/contact-us/">contact us</a> in case migration assistence needed.</p>
+                            <p>Technically, you have to follow the same flow as for How to migrate from the Cloud to a self-service platform copy. Please, <a href="https://docs.sensef.ru/docs/contact-us/">contact us</a> in case migration assistence needed.</p>
                         </div>
                     </div>
                 </div>
@@ -2154,17 +2154,17 @@ selfManagedPlan:
                     </div>
                     <div class="item" data-tag="h4" data-item-id="tb-cloud-use-wire-instead-of-card" data-title="I cannot pay by card, may we use wire instead?">
                         <div class="container">
-                            <p>Sure. In this case, you must reach out to our sales team via <a href="https://thingsboard.io/docs/contact-us/">contact us</a>. If you have ongoing communication with the account manager or success manager on our end, please refer your request to that person.</p>
+                            <p>Sure. In this case, you must reach out to our sales team via <a href="https://docs.sensef.ru/docs/contact-us/">contact us</a>. If you have ongoing communication with the account manager or success manager on our end, please refer your request to that person.</p>
                         </div>
                     </div>
                     <div class="item" data-tag="h4" data-item-id="tb-cloud-pay-monthly-or-annually" data-title="Can I pay monthly or annually?">
                         <div class="container">
-                            <p>We currently offer only a monthly subscription with automatic payments via Stripe. For annual payments, please <a href="https://thingsboard.io/docs/contact-us/">contact</a> our team to arrange a wire transfer invoice.</p>
+                            <p>We currently offer only a monthly subscription with automatic payments via Stripe. For annual payments, please <a href="https://docs.sensef.ru/docs/contact-us/">contact</a> our team to arrange a wire transfer invoice.</p>
                         </div>
                     </div>
                     <div class="item" data-tag="h4" data-item-id="tb-cloud-volueme-discounts" data-title="Do you offer volume discounts for large deployments?">
                         <div class="container">
-                            <p>We offer Enterprise plan for large-scale deployments; <a href="https://thingsboard.io/docs/contact-us/">contact us</a> for details.</p>
+                            <p>We offer Enterprise plan for large-scale deployments; <a href="https://docs.sensef.ru/docs/contact-us/">contact us</a> for details.</p>
                         </div>
                     </div>
                     <div class="item" data-tag="h4" data-item-id="tb-cloud-billing-history-invoices" data-title="How do I view my billing history and invoices?">
@@ -2187,12 +2187,12 @@ selfManagedPlan:
                     </div>
                     <div class="item hidden" data-tag="h4" data-item-id="tb-cloud-charge-for-data-transfer-api-calls-msg-processing" data-title="Do you charge for data transfer, API calls, or message processing?">
                         <div class="container">
-                            <p>Each plan includes predefined usage limits; exceeding those may require an upgrade. API and Rate limits detals <a href="https://thingsboard.io/docs/paas/subscription/">here</a>.</p>
+                            <p>Each plan includes predefined usage limits; exceeding those may require an upgrade. API and Rate limits detals <a href="https://docs.sensef.ru/docs/paas/subscription/">here</a>.</p>
                         </div>
                     </div>
                     <div class="item hidden" data-tag="h4" data-item-id="tb-cloud-custom-plan" data-title="Can I create a custom plan with the ability to choose limits for devices, assets, users, etc.?">
                         <div class="container">
-                            <p>ThingsBoard Cloud does not offer fully customizable plans with user-defined limits. However, the Enterprise subscription provides a dedicated environment with no device number or data point limits. If you require a customized solution, please <a href="https://thingsboard.io/docs/contact-us/">contact us</a> to discuss available options.</p>
+                            <p>ThingsBoard Cloud does not offer fully customizable plans with user-defined limits. However, the Enterprise subscription provides a dedicated environment with no device number or data point limits. If you require a customized solution, please <a href="https://docs.sensef.ru/docs/contact-us/">contact us</a> to discuss available options.</p>
                         </div>
                     </div>
                     <div class="item hidden" data-tag="h4" data-item-id="tb-cloud-refund" data-title="Can I get a refund if I cancel my subscription?">
@@ -2207,14 +2207,14 @@ selfManagedPlan:
                     </div>
                     <div class="item hidden" data-tag="h4" data-item-id="tb-cloud-how-to-bill-my-customers" data-title="How to bill my customers on Cloud?">
                         <div class="container">
-                            <p>Currently, ThingsBoard Cloud does not provide a built-in billing module to charge end customers. However, you can create custom dashboards with backend integration between ThingsBoard and the payment system of your choice to set up billing for your application. If you would like our assistance with setting up billing, please <a href="https://thingsboard.io/docs/contact-us/">contact us</a>, and we’ll be happy to propose such a configuration as an additional service.</p>
+                            <p>Currently, ThingsBoard Cloud does not provide a built-in billing module to charge end customers. However, you can create custom dashboards with backend integration between ThingsBoard and the payment system of your choice to set up billing for your application. If you would like our assistance with setting up billing, please <a href="https://docs.sensef.ru/docs/contact-us/">contact us</a>, and we’ll be happy to propose such a configuration as an additional service.</p>
                         </div>
                     </div>
                 </div>
                 <div id="faq-thingsboard-cloud-usageAndLimits" class="pi-accordion">
                     <div class="item" data-tag="h4" data-item-id="tb-cloud-device-msg-data-storage-limits-for-plans" data-title="What are the device, message, and data storage limits for each plan?">
                         <div class="container">
-                            <p>Limits vary by plan; details can be found on our plans definition <a href="https://thingsboard.io/docs/paas/subscription/">page</a>.</p>
+                            <p>Limits vary by plan; details can be found on our plans definition <a href="https://docs.sensef.ru/docs/paas/subscription/">page</a>.</p>
                         </div>
                     </div>
                     <div class="item" data-tag="h4" data-item-id="tb-cloud-device-usage-calculation" data-title="How is device usage calculated?">
@@ -2247,12 +2247,12 @@ selfManagedPlan:
                     </div>
                     <div class="item hidden" data-tag="h4" data-item-id="tb-cloud-migration-to-sm-support" data-title="What support options are available for migrating to a self-managed system instead of switching to the Enterprise plan?">
                         <div class="container">
-                            <p>You can perform the migration on your own using the Version Control feature to transfer your configurations. Telemetry data can be exported via the REST API. Alternatively, the ThingsBoard team can provide additional migration assistance. Please <a href="https://thingsboard.io/docs/contact-us/">contact us</a> for more details.</p>
+                            <p>You can perform the migration on your own using the Version Control feature to transfer your configurations. Telemetry data can be exported via the REST API. Alternatively, the ThingsBoard team can provide additional migration assistance. Please <a href="https://docs.sensef.ru/docs/contact-us/">contact us</a> for more details.</p>
                         </div>
                     </div>
                     <div class="item hidden" data-tag="h4" data-item-id="tb-cloud-telemetry-storage-billing" data-title="How is telemetry data storage billed?">
                         <div class="container">
-                            <p>Storage is included in your plan, but exceeding limits may require an upgrade of subscription. Limits vary by plan. See details <a href="https://thingsboard.io/docs/paas/subscription/">here</a>.</p>
+                            <p>Storage is included in your plan, but exceeding limits may require an upgrade of subscription. Limits vary by plan. See details <a href="https://docs.sensef.ru/docs/paas/subscription/">here</a>.</p>
                         </div>
                     </div>
                     <div class="item hidden" data-tag="h4" data-item-id="tb-cloud-dashboard-costs" data-title="Are there additional costs for dashboards and visualization?">
@@ -2272,12 +2272,12 @@ selfManagedPlan:
                     </div>
                     <div class="item hidden" data-tag="h4" data-item-id="tb-cloud-users-limits-per-acc" data-title="Is there a limit on the number of users per account?">
                         <div class="container">
-                            <p>Each plan has a predefined number of users. Limits vary by plan; details can be found on our plans definition <a href="https://thingsboard.io/docs/paas/subscription/">page</a>.</p>
+                            <p>Each plan has a predefined number of users. Limits vary by plan; details can be found on our plans definition <a href="https://docs.sensef.ru/docs/paas/subscription/">page</a>.</p>
                         </div>
                     </div>
                     <div class="item hidden" data-tag="h4" data-item-id="tb-cloud-domain-certificate" data-title="Where can I put a domain certificate?">
                         <div class="container">
-                            <p>ThingsBoard automatically provisions certificates for your domain name using Let's Encrypt. Refer to the guide <a href="https://thingsboard.io/docs/paas/domains/">here</a>. Custom certificate provisioning is available exclusively for Enterprise Cloud subscribers upon request.</p>
+                            <p>ThingsBoard automatically provisions certificates for your domain name using Let's Encrypt. Refer to the guide <a href="https://docs.sensef.ru/docs/paas/domains/">here</a>. Custom certificate provisioning is available exclusively for Enterprise Cloud subscribers upon request.</p>
                         </div>
                     </div>
                     <div class="item hidden" data-tag="h4" data-item-id="tb-cloud-tenant-uptime-tracking" data-title="How can I track the uptime of my tenant?">
@@ -2294,7 +2294,7 @@ selfManagedPlan:
                     </div>
                     <div class="item" data-tag="h4" data-item-id="tb-cloud-enterprise-pricing-calculation" data-title="How is the Enterprise plan price calculated?">
                         <div class="container">
-                            <p>The ThingsBoard Enterprise plan price is based on resource usage, with a minimum starting fee and additional costs for extra resources. To receive a detailed price calculation, please contact our sales team by filling out the <a href="https://thingsboard.io/docs/contact-us/">contact us</a> form on our website.</p>
+                            <p>The ThingsBoard Enterprise plan price is based on resource usage, with a minimum starting fee and additional costs for extra resources. To receive a detailed price calculation, please contact our sales team by filling out the <a href="https://docs.sensef.ru/docs/contact-us/">contact us</a> form on our website.</p>
                         </div>
                     </div>
                     <div class="item" data-tag="h4" data-item-id="tb-cloud-enterprise-support-options" data-title="What support options are included in the enterprise plan?">
@@ -2314,7 +2314,7 @@ selfManagedPlan:
                     </div>
                     <div class="item" data-tag="h4" data-item-id="tb-cloud-professional-services-large-deployments" data-title="Do you provide professional services for large-scale deployments?">
                         <div class="container">
-                            <p>Yes, we offer a range of services including managed services, consulting, application design, and development/configuration services. For more detail please <a href="https://thingsboard.io/docs/contact-us/">contact us</a>.</p>
+                            <p>Yes, we offer a range of services including managed services, consulting, application design, and development/configuration services. For more detail please <a href="https://docs.sensef.ru/docs/contact-us/">contact us</a>.</p>
                         </div>
                     </div>
                 </div>
@@ -2376,7 +2376,7 @@ selfManagedPlan:
                     </div>
                     <div class="item" data-tag="h4" data-item-id="tb-cloud-subscription-cancel" data-title="How to cancel my subscription?">
                         <div class="container">
-                            <p>Kindly refer to the guide <a href="https://thingsboard.io/docs/paas/eu/subscription/#how-to-cancel-my-subscription">here</a>.</p>
+                            <p>Kindly refer to the guide <a href="https://docs.sensef.ru/docs/paas/eu/subscription/#how-to-cancel-my-subscription">here</a>.</p>
                         </div>
                     </div>
                     <div class="item" data-tag="h4" data-item-id="tb-cloud-subscription-cancel-impact" data-title="What happens if I cancel my subscription before the billing period ends?">
@@ -2398,22 +2398,22 @@ selfManagedPlan:
                     </div>
                     <div class="item" data-tag="h4" data-item-id="tb-cloud-support-24-7" data-title="Do you offer 24/7 customer support?">
                         <div class="container">
-                            <p>Yes, we do provide 24/7 support. If this is what you're looking for, please <a href="https://thingsboard.io/docs/contact-us/">contact us</a> for a more detailed discussion about your specific needs.</p>
+                            <p>Yes, we do provide 24/7 support. If this is what you're looking for, please <a href="https://docs.sensef.ru/docs/contact-us/">contact us</a> for a more detailed discussion about your specific needs.</p>
                         </div>
                     </div>
                     <div class="item" data-tag="h4" data-item-id="tb-cloud-support-billing" data-title="How can I contact ThingsBoard support for billing-related issues?">
                         <div class="container">
-                            <p>You can use the <a href="https://thingsboard.io/docs/contact-us/">contact us</a> form and select the "Other" topic. Our account managers will assist you with any billing-related issues.</p>
+                            <p>You can use the <a href="https://docs.sensef.ru/docs/contact-us/">contact us</a> form and select the "Other" topic. Our account managers will assist you with any billing-related issues.</p>
                         </div>
                     </div>
                     <div class="item" data-tag="h4" data-item-id="tb-cloud-knowledge-base" data-title="Is there a knowledge base or self-service support portal?">
                         <div class="container">
-                            <p>All of our <a href="https://thingsboard.io/docs/paas/">documentation</a> is available on our website, with no hidden information. Additionally, you can use our Github issues for community support.</p>
+                            <p>All of our <a href="https://docs.sensef.ru/docs/paas/">documentation</a> is available on our website, with no hidden information. Additionally, you can use our Github issues for community support.</p>
                         </div>
                     </div>
                     <div class="item" data-tag="h4" data-item-id="tb-cloud-priority-support" data-title="Can I get priority support with my plan?">
                         <div class="container">
-                            <p>Priority support is available for Enterprise subscription users based on the Service Level Agreement (SLA). Alternatively, you can purchase additional support based on your specific requirements and needs. Please <a href="https://thingsboard.io/docs/contact-us/">contact us</a> for a more detailed discussion.</p>
+                            <p>Priority support is available for Enterprise subscription users based on the Service Level Agreement (SLA). Alternatively, you can purchase additional support based on your specific requirements and needs. Please <a href="https://docs.sensef.ru/docs/contact-us/">contact us</a> for a more detailed discussion.</p>
                         </div>
                     </div>
                     <div class="item" data-tag="h4" data-item-id="tb-cloud-support-response-times" data-title="What response times can I expect for support tickets?">
@@ -2956,7 +2956,7 @@ selfManagedPlan:
                     </div>
                     <div class="item" data-tag="h4" data-item-id="pe-pay-as-you-go-self-managed-subscription-plans" data-title="What self-managed subscription plans does ThingsBoard offer?">
                         <div class="container">
-                            <p>ThingsBoard offers flexible monthly subscription plans, with tiers based on the number of devices and assets. We support 4 predefined plans to cater to different needs. The beginner plan includes support for up to 10 devices. For more details, visit the ThingsBoard <a href="https://thingsboard.io/pricing/?product=thingsboard-pe">pricing page</a>.</p>
+                            <p>ThingsBoard offers flexible monthly subscription plans, with tiers based on the number of devices and assets. We support 4 predefined plans to cater to different needs. The beginner plan includes support for up to 10 devices. For more details, visit the ThingsBoard <a href="https://docs.sensef.ru/pricing/?product=thingsboard-pe">pricing page</a>.</p>
                         </div>
                     </div>
                     <div class="item" data-tag="h4" data-item-id="pe-pay-as-you-go-self-managed-differences" data-title="How do the self-managed subscription plans differ?">
@@ -2989,7 +2989,7 @@ selfManagedPlan:
                     </div>
                     <div class="item hidden" data-tag="h4" data-item-id="pe-pay-as-you-go-cloud-to-self-managed" data-title="Can I migrate from a ThingsBoard Cloud subscription to a self-managed license?">
                         <div class="container">
-                            <p>Please, <a href="https://thingsboard.io/docs/contact-us/">contact us</a> in case migration assistance is needed.</p>
+                            <p>Please, <a href="https://docs.sensef.ru/docs/contact-us/">contact us</a> in case migration assistance is needed.</p>
                         </div>
                     </div>
                     <div class="item hidden" data-tag="h4" data-item-id="pe-pay-as-you-go-self-managed-features" data-title="Are all ThingsBoard features included in every plan?">
@@ -3026,12 +3026,12 @@ selfManagedPlan:
                     </div>
                     <div class="item" data-tag="h4" data-item-id="pe-pay-as-you-go-wire-payment" data-title="I cannot pay by card, may we use wire instead?">
                         <div class="container">
-                            <p>Sure. In this case, you must reach out to our sales team via <a href="https://thingsboard.io/docs/contact-us/">contact us</a>. If you have ongoing communication with the account manager or success manager on our end, please refer your request to that person.</p>
+                            <p>Sure. In this case, you must reach out to our sales team via <a href="https://docs.sensef.ru/docs/contact-us/">contact us</a>. If you have ongoing communication with the account manager or success manager on our end, please refer your request to that person.</p>
                         </div>
                     </div>
                     <div class="item" data-tag="h4" data-item-id="pe-pay-as-you-go-annual-payment" data-title="Do you offer an annual payment option?">
                         <div class="container">
-                            <p>We currently offer only a monthly subscription with automatic payments via Stripe. For annual payments, please <a href="https://thingsboard.io/docs/contact-us/">contact</a> our team to arrange a wire transfer invoice.</p>
+                            <p>We currently offer only a monthly subscription with automatic payments via Stripe. For annual payments, please <a href="https://docs.sensef.ru/docs/contact-us/">contact</a> our team to arrange a wire transfer invoice.</p>
                         </div>
                     </div>
                     <div class="item" data-tag="h4" data-item-id="pe-pay-as-you-go-payment-failure" data-title="What happens if my payment fails?">
@@ -3059,7 +3059,7 @@ selfManagedPlan:
                     </div>
                     <div class="item hidden" data-tag="h4" data-item-id="pe-pay-as-you-go-multiple-licenses" data-title="Do you offer discounts for multiple licenses?">
                         <div class="container">
-                            <p>Contact our <a href="https://thingsboard.io/docs/contact-us/">sales team</a> for bulk pricing options.</p>
+                            <p>Contact our <a href="https://docs.sensef.ru/docs/contact-us/">sales team</a> for bulk pricing options.</p>
                         </div>
                     </div>
                     <div class="item hidden" data-tag="h4" data-item-id="pe-pay-as-you-go-subscription-expiry" data-title="What happens if I don’t renew my subscription?">
@@ -3101,12 +3101,12 @@ selfManagedPlan:
                     </div>
                     <div class="item" data-tag="h4" data-item-id="pe-pay-as-you-go-internet-requirement" data-title="Do I need an internet connection to use the self-managed license?">
                         <div class="container">
-                            <p>Yes, an internet connection is required for periodic license verification. The system checks the license once per hour, and if the connection is not restored within 24 hours, the platform may shut down. This process ensures proper license management while allowing temporary connectivity issues. For more details, please refer to the license check <a href="https://thingsboard.io/products/license-server/#architecture">description</a>.</p>
+                            <p>Yes, an internet connection is required for periodic license verification. The system checks the license once per hour, and if the connection is not restored within 24 hours, the platform may shut down. This process ensures proper license management while allowing temporary connectivity issues. For more details, please refer to the license check <a href="https://docs.sensef.ru/products/license-server/#architecture">description</a>.</p>
                         </div>
                     </div>
                     <div class="item" data-tag="h4" data-item-id="pe-pay-as-you-go-offline-access" data-title="Can I run offline?">
                         <div class="container">
-                            <p>By default, the platform requires active Internet access or at least access to license portal from your host machine. If Offline access is a must, please <a href="https://thingsboard.io/docs/contact-us/">contact us</a> to discuss options.</p>
+                            <p>By default, the platform requires active Internet access or at least access to license portal from your host machine. If Offline access is a must, please <a href="https://docs.sensef.ru/docs/contact-us/">contact us</a> to discuss options.</p>
                         </div>
                     </div>
                     <div class="load-more" onClick="loadMoreFaq(this)">
@@ -3129,7 +3129,7 @@ selfManagedPlan:
                     </div>
                     <div class="item hidden" data-tag="h4" data-item-id="pe-pay-as-you-go-telemetry-storage" data-title="How is telemetry data stored in self-managed ThingsBoard?">
                         <div class="container">
-                            <p>ThingsBoard supports PostgreSQL or PostgreSQL + Cassandra (Hybrid mode) for telemetry storage. For more details on database options, you can check <a href="https://thingsboard.io/docs/reference/#sql-vs-nosql-vs-hybrid-database-approach">here</a>.</p>
+                            <p>ThingsBoard supports PostgreSQL or PostgreSQL + Cassandra (Hybrid mode) for telemetry storage. For more details on database options, you can check <a href="https://docs.sensef.ru/docs/reference/#sql-vs-nosql-vs-hybrid-database-approach">here</a>.</p>
                         </div>
                     </div>
                     <div class="item hidden" data-tag="h4" data-item-id="pe-pay-as-you-go-multi-tenancy" data-title="Does ThingsBoard support multi-tenancy?">
@@ -3171,7 +3171,7 @@ selfManagedPlan:
                     </div>
                     <div class="item" data-tag="h4" data-item-id="pe-pay-as-you-go-vulnerability-fixes" data-title="Where can I find the logged vulnerability fixes matrix: version + list of fixes?">
                         <div class="container">
-                            <p>Please stay tuned with our <a href="https://thingsboard.io/docs/pe/reference/releases/">Release notes</a>. Critical vulnerabilities or security issues are mentioned in separate line items. Less threatful vulnerabilities appear as a single record (“Vulnerability fixes”) stating that, at the release date, the version is free of known HIGH and some MEDIUM CVEs.</p>
+                            <p>Please stay tuned with our <a href="https://docs.sensef.ru/docs/pe/reference/releases/">Release notes</a>. Critical vulnerabilities or security issues are mentioned in separate line items. Less threatful vulnerabilities appear as a single record (“Vulnerability fixes”) stating that, at the release date, the version is free of known HIGH and some MEDIUM CVEs.</p>
                         </div>
                     </div>
                 </div>
@@ -3205,12 +3205,12 @@ selfManagedPlan:
                     </div>
                     <div class="item" data-tag="h4" data-item-id="pe-pay-as-you-go-24-7-support" data-title="Do you offer 24/7 support?">
                         <div class="container">
-                            <p>Yes, we can provide 24/7 support as part of our managed services with an additional signed SLA. Please <a href="https://thingsboard.io/docs/contact-us/">contact us</a> for more details.</p>
+                            <p>Yes, we can provide 24/7 support as part of our managed services with an additional signed SLA. Please <a href="https://docs.sensef.ru/docs/contact-us/">contact us</a> for more details.</p>
                         </div>
                     </div>
                     <div class="item" data-tag="h4" data-item-id="pe-pay-as-you-go-installation-help" data-title="How can I get help with installation and setup?">
                         <div class="container">
-                            <p>If your subscription plan includes response time support and you have access to the Support Portal, the ThingsBoard support team can assist with system deployment as part of the subscription. However, this applies only if you follow recommended installation methods and architecture. Custom installation scripts or non-recommended deployment scenarios are not covered under included support. If your subscription plan does not include support, then we recommend using our documentation, tutorials, and optional professional services. To discuss options, please <a href="https://thingsboard.io/docs/contact-us/">contact us</a>.</p>
+                            <p>If your subscription plan includes response time support and you have access to the Support Portal, the ThingsBoard support team can assist with system deployment as part of the subscription. However, this applies only if you follow recommended installation methods and architecture. Custom installation scripts or non-recommended deployment scenarios are not covered under included support. If your subscription plan does not include support, then we recommend using our documentation, tutorials, and optional professional services. To discuss options, please <a href="https://docs.sensef.ru/docs/contact-us/">contact us</a>.</p>
                         </div>
                     </div>
                     <div class="item" data-tag="h4" data-item-id="pe-pay-as-you-go-contact-support" data-title="How do I contact support?">
@@ -3287,7 +3287,7 @@ selfManagedPlan:
                     </div>
                     <div class="item hidden" data-tag="h4" data-item-id="pe-perpetual-dev-instance" data-title="Can I purchase a Development license separately?">
                         <div class="container">
-                            <p>Yes, via the <a href="https://license.thingsboard.io" target="_blank">License portal</a>, one can order development licenses for ThingsBoard PE Platform and for Trendz. If the card payments are restricted in your company, please <a href="https://thingsboard.io/docs/contact-us/">submit your request</a> to our sales team.</p>
+                            <p>Yes, via the <a href="https://license.thingsboard.io" target="_blank">License portal</a>, one can order development licenses for ThingsBoard PE Platform and for Trendz. If the card payments are restricted in your company, please <a href="https://docs.sensef.ru/docs/contact-us/">submit your request</a> to our sales team.</p>
                         </div>
                     </div>
                     <div class="item hidden" data-tag="h4" data-item-id="pe-perpetual-enterprise-bundle" data-title="What is within the scope of Enterprise Bundle?">
@@ -3345,7 +3345,7 @@ selfManagedPlan:
                     </div>
                     <div class="item" data-tag="h4" data-item-id="pe-perpetual-renewal-delay" data-title="If I miss 1 year and then decide to prolong, how much should I pay?">
                         <div class="container">
-                            <p>If you miss the renewal for one year and then decide to renew, you will need to pay the yearly renewal fee for the missed period, in addition to the fee for the new period. If you miss 6 months after the initial expiration date, you can still renew by paying the annual fee, and the renewal will be calculated based on the original expiration date of your license, not from the moment you choose to renew. If you require further clarifications on this, please <a href="https://thingsboard.io/docs/contact-us/">contact us</a>, and we will be happy to explain.</p>
+                            <p>If you miss the renewal for one year and then decide to renew, you will need to pay the yearly renewal fee for the missed period, in addition to the fee for the new period. If you miss 6 months after the initial expiration date, you can still renew by paying the annual fee, and the renewal will be calculated based on the original expiration date of your license, not from the moment you choose to renew. If you require further clarifications on this, please <a href="https://docs.sensef.ru/docs/contact-us/">contact us</a>, and we will be happy to explain.</p>
                         </div>
                     </div>
                     <div class="load-more" onClick="loadMoreFaq(this)">
@@ -3358,17 +3358,17 @@ selfManagedPlan:
                     </div>
                     <div class="item hidden" data-tag="h4" data-item-id="pe-perpetual-upgrade-perpetual" data-title="If I have a Perpetual license, can I upgrade it to a Perpetual Kit?">
                         <div class="container">
-                            <p>Yes, it is possible to upgrade your Perpetual license to Perpetual Kit. For more details, please <a href="https://thingsboard.io/docs/contact-us/">contact us</a>, and we will assist you with the upgrade process.</p>
+                            <p>Yes, it is possible to upgrade your Perpetual license to Perpetual Kit. For more details, please <a href="https://docs.sensef.ru/docs/contact-us/">contact us</a>, and we will assist you with the upgrade process.</p>
                         </div>
                     </div>
                     <div class="item hidden" data-tag="h4" data-item-id="pe-perpetual-refund-policy" data-title="Can I request a refund after purchasing the license?">
                         <div class="container">
-                            <p>Since the Perpetual License is a one-time purchase granting lifetime access, all sales are final. However, we encourage customers to explore our subscription options before committing to a perpetual license. Subscriptions provide full access to ThingsBoard Professional Edition, allowing you to evaluate its features and scalability. If you need guidance on selecting the best licensing option for your needs, our <a href="https://thingsboard.io/docs/contact-us/">sales team</a> is happy to assist you.</p>
+                            <p>Since the Perpetual License is a one-time purchase granting lifetime access, all sales are final. However, we encourage customers to explore our subscription options before committing to a perpetual license. Subscriptions provide full access to ThingsBoard Professional Edition, allowing you to evaluate its features and scalability. If you need guidance on selecting the best licensing option for your needs, our <a href="https://docs.sensef.ru/docs/contact-us/">sales team</a> is happy to assist you.</p>
                         </div>
                     </div>
                     <div class="item hidden" data-tag="h4" data-item-id="pe-perpetual-discounts" data-title="Do you offer discounts for multiple licenses?">
                         <div class="container">
-                            <p>Contact our <a href="https://thingsboard.io/docs/contact-us/">sales team</a> for bulk pricing options.</p>
+                            <p>Contact our <a href="https://docs.sensef.ru/docs/contact-us/">sales team</a> for bulk pricing options.</p>
                         </div>
                     </div>
                 </div>
@@ -3400,7 +3400,7 @@ selfManagedPlan:
                     </div>
                     <div class="item" data-tag="h4" data-item-id="pe-perpetual-usage-limits" data-title="Are there any device, asset, user, etc., limits for perpetual licenses?">
                         <div class="container">
-                            <p>No, there are no limits from a software perspective on the number of devices, assets, users, etc. The only limits you may encounter would be related to hardware capacity and the chosen architecture deployment mode. For more details you can read our <a href="https://thingsboard.io/docs/pe/reference/">documentation</a> or <a href="https://thingsboard.io/docs/contact-us/">contact</a> our team.</p>
+                            <p>No, there are no limits from a software perspective on the number of devices, assets, users, etc. The only limits you may encounter would be related to hardware capacity and the chosen architecture deployment mode. For more details you can read our <a href="https://docs.sensef.ru/docs/pe/reference/">documentation</a> or <a href="https://docs.sensef.ru/docs/contact-us/">contact</a> our team.</p>
                         </div>
                     </div>
                     <div class="load-more" onClick="loadMoreFaq(this)">
@@ -3408,7 +3408,7 @@ selfManagedPlan:
                     </div>
                     <div class="item hidden" data-tag="h4" data-item-id="pe-perpetual-offline" data-title="Can I run offline?">
                         <div class="container">
-                            <p>By default, the platform requires active Internet access or at least access to license.thingsboard.io:443 from your host machine. If Offline access is a must, please <a href="https://thingsboard.io/docs/contact-us/">contact us</a> to discuss options.</p>
+                            <p>By default, the platform requires active Internet access or at least access to license.thingsboard.io:443 from your host machine. If Offline access is a must, please <a href="https://docs.sensef.ru/docs/contact-us/">contact us</a> to discuss options.</p>
                         </div>
                     </div>
                     <div class="item hidden" data-tag="h4" data-item-id="pe-perpetual-move-deployment-cloud" data-title="Can I move my deployment between cloud providers?">
@@ -3423,7 +3423,7 @@ selfManagedPlan:
                     </div>
                     <div class="item hidden" data-tag="h4" data-item-id="pe-perpetual-telemetry-storage" data-title="How is telemetry data stored in self-managed ThingsBoard?">
                         <div class="container">
-                            <p>ThingsBoard supports PostgreSQL or PostgreSQL + Cassandra (Hybrid mode) for telemetry storage. For more details on database options, you can check <a href="https://thingsboard.io/docs/reference/#sql-vs-nosql-vs-hybrid-database-approach">here</a>.</p>
+                            <p>ThingsBoard supports PostgreSQL or PostgreSQL + Cassandra (Hybrid mode) for telemetry storage. For more details on database options, you can check <a href="https://docs.sensef.ru/docs/reference/#sql-vs-nosql-vs-hybrid-database-approach">here</a>.</p>
                         </div>
                     </div>
                     <div class="item hidden" data-tag="h4" data-item-id="pe-perpetual-multi-tenancy" data-title="Does ThingsBoard support multi-tenancy?">
@@ -3450,7 +3450,7 @@ selfManagedPlan:
                     </div>
                     <div class="item" data-tag="h4" data-item-id="pe-perpetual-license-verification" data-title="What data does ThingsBoard collect for license verification?">
                         <div class="container">
-                            <p>During the first launch of ThingsBoard PE, built-in License Server Client generates an “Activate Instance Request” to the License Server. This request contains the license key and version info about the current platform installation. License Server looks up the subscription info based on the license key and replies with the instance id, subscription plan data, and some magic bytes. License Client stores this information locally and uses instance id and some magic bytes for the next license check requests. More details <a href="https://thingsboard.io/products/license-server/">here</a>.</p>
+                            <p>During the first launch of ThingsBoard PE, built-in License Server Client generates an “Activate Instance Request” to the License Server. This request contains the license key and version info about the current platform installation. License Server looks up the subscription info based on the license key and replies with the instance id, subscription plan data, and some magic bytes. License Client stores this information locally and uses instance id and some magic bytes for the next license check requests. More details <a href="https://docs.sensef.ru/products/license-server/">here</a>.</p>
                         </div>
                     </div>
                     <div class="item" data-tag="h4" data-item-id="pe-perpetual-data-region" data-title="Can I store ThingsBoard data in my preferred region?">
@@ -3473,7 +3473,7 @@ selfManagedPlan:
                     </div>
                     <div class="item hidden" data-tag="h4" data-item-id="pe-perpetual-vulnerability-fixes" data-title="Where can I find the logged vulnerability fixes matrix: version + list of fixes?">
                         <div class="container">
-                            <p>Please stay tuned with our <a href="https://thingsboard.io/docs/pe/reference/releases/">Release notes</a>. Critical vulnerabilities or security issues are mentioned in separate line items. Less threatful vulnerabilities appear as a single record (“Vulnerability fixes”) stating that, at the release date, the version is free of known HIGH and some MEDIUM CVEs.</p>
+                            <p>Please stay tuned with our <a href="https://docs.sensef.ru/docs/pe/reference/releases/">Release notes</a>. Critical vulnerabilities or security issues are mentioned in separate line items. Less threatful vulnerabilities appear as a single record (“Vulnerability fixes”) stating that, at the release date, the version is free of known HIGH and some MEDIUM CVEs.</p>
                         </div>
                     </div>
                 </div>
@@ -3490,7 +3490,7 @@ selfManagedPlan:
                     </div>
                     <div class="item" data-tag="h4" data-item-id="pe-perpetual-trial-convert" data-title="Can I convert a trial instance into a perpetual license?">
                         <div class="container">
-                            <p>Yes, you can convert your self-managed subscription to a perpetual license by purchasing the perpetual license and replacing the license key in the configuration file. For more details, please <a href="https://thingsboard.io/docs/contact-us/">contact us</a>.</p>
+                            <p>Yes, you can convert your self-managed subscription to a perpetual license by purchasing the perpetual license and replacing the license key in the configuration file. For more details, please <a href="https://docs.sensef.ru/docs/contact-us/">contact us</a>.</p>
                         </div>
                     </div>
                     <div class="item" data-tag="h4" data-item-id="pe-perpetual-license-refund" data-title="Do you offer refunds for perpetual license purchases?">
@@ -3513,17 +3513,17 @@ selfManagedPlan:
                     </div>
                     <div class="item" data-tag="h4" data-item-id="pe-perpetual-purchase-additional-support" data-title="Can I purchase additional support for my perpetual license?">
                         <div class="container">
-                            <p>Yes, you can purchase additional services such as managed services, advanced SLAs, consultancy, development, and training. For more details, please <a href="https://thingsboard.io/docs/contact-us/">contact</a> our sales team.</p>
+                            <p>Yes, you can purchase additional services such as managed services, advanced SLAs, consultancy, development, and training. For more details, please <a href="https://docs.sensef.ru/docs/contact-us/">contact</a> our sales team.</p>
                         </div>
                     </div>
                     <div class="item" data-tag="h4" data-item-id="pe-perpetual-247-support" data-title="Do you offer 24/7 support?">
                         <div class="container">
-                            <p>Yes, we can provide 24/7 support as part of our managed services with an additional signed SLA. Please <a href="https://thingsboard.io/docs/contact-us/">contact us</a> for more details.</p>
+                            <p>Yes, we can provide 24/7 support as part of our managed services with an additional signed SLA. Please <a href="https://docs.sensef.ru/docs/contact-us/">contact us</a> for more details.</p>
                         </div>
                     </div>
                     <div class="item" data-tag="h4" data-item-id="pe-perpetual-maintenance-services" data-title="Do you provide full maintenance services for ThingsBoard deployed on my infrastructure?">
                         <div class="container">
-                            <p>Yes, ThingsBoard offers full maintenance services for instances deployed on your infrastructure. These services can be customized based on your needs and are provided under an additional SLA, ensuring regular monitoring, updates, and issue resolution. For more details please <a href="https://thingsboard.io/docs/contact-us/">contact us</a>.</p>
+                            <p>Yes, ThingsBoard offers full maintenance services for instances deployed on your infrastructure. These services can be customized based on your needs and are provided under an additional SLA, ensuring regular monitoring, updates, and issue resolution. For more details please <a href="https://docs.sensef.ru/docs/contact-us/">contact us</a>.</p>
                         </div>
                     </div>
                     <div class="item" data-tag="h4" data-item-id="pe-perpetual-contact-support" data-title="How do I contact support?">
@@ -3536,7 +3536,7 @@ selfManagedPlan:
                     </div>
                     <div class="item hidden" data-tag="h4" data-item-id="pe-perpetual-installation-help" data-title="How can I get help with installation and setup?">
                         <div class="container">
-                            <p>All perpetual license packages provide dedicated support with predefined response time and access to the ThingsBoard Support Portal. Our expert support team is available to assist you with system deployment by following our recommended installation methods and architecture, ensuring a smooth and efficient setup. For custom installation scripts or alternative deployment scenarios, additional support options are available and you can <a href="https://thingsboard.io/docs/contact-us/">contact us</a> to discuss your needs.</p>
+                            <p>All perpetual license packages provide dedicated support with predefined response time and access to the ThingsBoard Support Portal. Our expert support team is available to assist you with system deployment by following our recommended installation methods and architecture, ensuring a smooth and efficient setup. For custom installation scripts or alternative deployment scenarios, additional support options are available and you can <a href="https://docs.sensef.ru/docs/contact-us/">contact us</a> to discuss your needs.</p>
                         </div>
                     </div>
                     <div class="item hidden" data-tag="h4" data-item-id="pe-perpetual-development-services" data-title="Can you provide an IoT development service tailored to my specific needs?">
@@ -3599,7 +3599,7 @@ selfManagedPlan:
                     </div>
                     <div class="item hidden" data-tag="h4" data-item-id="trendz-cloud-custom-plan" data-title="Can I create a custom plan with the ability to choose limits for devices, assets, users, etc.?">
                         <div class="container">
-                            <p>Trendz Cloud does not offer fully customizable plans with user-defined limits. However, the Enterprise subscription provides a dedicated environment where configurations can be tailored to your specific needs. If you require a customized solution, please <a href="https://thingsboard.io/docs/contact-us/">contact us</a> to discuss available options.</p>
+                            <p>Trendz Cloud does not offer fully customizable plans with user-defined limits. However, the Enterprise subscription provides a dedicated environment where configurations can be tailored to your specific needs. If you require a customized solution, please <a href="https://docs.sensef.ru/docs/contact-us/">contact us</a> to discuss available options.</p>
                         </div>
                     </div>
                     <div class="item hidden" data-tag="h4" data-item-id="trendz-cloud-license-types" data-title="Can ThingsBoard and Trendz Analytics have different license types?">
@@ -3609,12 +3609,12 @@ selfManagedPlan:
                     </div>
                     <div class="item hidden" data-tag="h4" data-item-id="trendz-cloud-enterprise-price-not-listed" data-title="Why is there no listed price for the Enterprise subscription?">
                         <div class="container">
-                            <p>The Enterprise subscription is a fully managed cloud solution with a dedicated environment established for each customer upon request. Pricing is customized based on the specific infrastructure, resources, and service requirements of the customer. Please <a href="https://thingsboard.io/docs/contact-us/">contact us</a> to discuss your needs and receive a tailored quote.</p>
+                            <p>The Enterprise subscription is a fully managed cloud solution with a dedicated environment established for each customer upon request. Pricing is customized based on the specific infrastructure, resources, and service requirements of the customer. Please <a href="https://docs.sensef.ru/docs/contact-us/">contact us</a> to discuss your needs and receive a tailored quote.</p>
                         </div>
                     </div>
                     <div class="item hidden" data-tag="h4" data-item-id="trendz-cloud-any-limits" data-title="Are there any Limits?">
                         <div class="container">
-                            <p>Yes, each plan has specific API limits. You can review the detailed limits for each plan <a href="https://thingsboard.io/docs/paas/subscription/">here</a>.</p>
+                            <p>Yes, each plan has specific API limits. You can review the detailed limits for each plan <a href="https://docs.sensef.ru/docs/paas/subscription/">here</a>.</p>
                         </div>
                     </div>
                     <div class="item hidden" data-tag="h4" data-item-id="trendz-cloud-pay-as-you-go" data-title="What is the difference between Pay-as-you-go option and Trendz Cloud?">
@@ -3651,17 +3651,17 @@ selfManagedPlan:
                     </div>
                     <div class="item" data-tag="h4" data-item-id="trendz-cloud-wire-payment" data-title="I cannot pay by card, can we use wire instead?">
                         <div class="container">
-                            <p>Sure. In this case, you must reach out to our sales team via <a href="https://thingsboard.io/docs/contact-us/">contact us</a>. If you have ongoing communication with the account manager or success manager on our end, please refer your request to that person.</p>
+                            <p>Sure. In this case, you must reach out to our sales team via <a href="https://docs.sensef.ru/docs/contact-us/">contact us</a>. If you have ongoing communication with the account manager or success manager on our end, please refer your request to that person.</p>
                         </div>
                     </div>
                     <div class="item" data-tag="h4" data-item-id="trendz-cloud-monthly-or-annual" data-title="Can I pay monthly or annually?">
                         <div class="container">
-                            <p>We currently offer only a monthly subscription with automatic payments via Stripe. For annual payments, please <a href="https://thingsboard.io/docs/contact-us/">contact</a> our team to arrange a wire transfer invoice.</p>
+                            <p>We currently offer only a monthly subscription with automatic payments via Stripe. For annual payments, please <a href="https://docs.sensef.ru/docs/contact-us/">contact</a> our team to arrange a wire transfer invoice.</p>
                         </div>
                     </div>
                     <div class="item" data-tag="h4" data-item-id="trendz-cloud-volume-discounts" data-title="Do you offer volume discounts for large deployments?">
                         <div class="container">
-                            <p>We offer Enterprise plan for large-scale deployments; <a href="https://thingsboard.io/docs/contact-us/">contact us</a> for details.</p>
+                            <p>We offer Enterprise plan for large-scale deployments; <a href="https://docs.sensef.ru/docs/contact-us/">contact us</a> for details.</p>
                         </div>
                     </div>
                     <div class="item" data-tag="h4" data-item-id="trendz-cloud-view-billing-history" data-title="How do I view my billing history and invoices?">
@@ -3701,7 +3701,7 @@ selfManagedPlan:
                 <div id="faq-trendz-cloud-usageAndLimits" class="pi-accordion">
                     <div class="item" data-tag="h4" data-item-id="trendz-cloud-limits" data-title="What are the device, message, and data storage limits for each plan?">
                         <div class="container">
-                            <p>Limits vary by plan; details can be found on our plans definition <a href="https://thingsboard.io/docs/paas/subscription/">page</a>.</p>
+                            <p>Limits vary by plan; details can be found on our plans definition <a href="https://docs.sensef.ru/docs/paas/subscription/">page</a>.</p>
                         </div>
                     </div>
                     <div class="item" data-tag="h4" data-item-id="trendz-cloud-device-usage" data-title="How is device usage calculated?">
@@ -3721,7 +3721,7 @@ selfManagedPlan:
                     </div>
                     <div class="item" data-tag="h4" data-item-id="trendz-cloud-self-managed-support" data-title="If I don’t want to switch to the Enterprise plan but prefer to migrate to a self-managed system, what kind of support do I get?">
                         <div class="container">
-                            <p>You can perform the migration on your own using the Version Control feature to transfer your configurations. Telemetry data can be exported via the REST API. Alternatively, the Trendz team can provide additional migration assistance on an hourly basis. Please <a href="https://thingsboard.io/docs/contact-us/">contact us</a> for more details.</p>
+                            <p>You can perform the migration on your own using the Version Control feature to transfer your configurations. Telemetry data can be exported via the REST API. Alternatively, the Trendz team can provide additional migration assistance on an hourly basis. Please <a href="https://docs.sensef.ru/docs/contact-us/">contact us</a> for more details.</p>
                         </div>
                     </div>
                     <div class="item" data-tag="h4" data-item-id="trendz-cloud-telemetry-billing" data-title="How is telemetry data storage billed?">
@@ -3756,7 +3756,7 @@ selfManagedPlan:
                     </div>
                     <div class="item" data-tag="h4" data-item-id="trendz-cloud-enterprise-price" data-title="How is the Enterprise plan price calculated?">
                         <div class="container">
-                            <p>The ThingsBoard Enterprise plan price is determined based on resource usage, starting with a fixed base price and additional fees for extra resources. To receive a detailed price calculation, please contact our sales team by filling out the <a href="https://thingsboard.io/docs/contact-us/">"Contact Us"</a> form on our website.</p>
+                            <p>The ThingsBoard Enterprise plan price is determined based on resource usage, starting with a fixed base price and additional fees for extra resources. To receive a detailed price calculation, please contact our sales team by filling out the <a href="https://docs.sensef.ru/docs/contact-us/">"Contact Us"</a> form on our website.</p>
                         </div>
                     </div>
                     <div class="item" data-tag="h4" data-item-id="trendz-cloud-enterprise-support" data-title="What support options are included in the enterprise plan?">
@@ -3800,7 +3800,7 @@ selfManagedPlan:
                 <div id="faq-trendz-cloud-trialsCancellationsAndRefunds" class="pi-accordion">
                     <div class="item" data-tag="h4" data-item-id="trendz-cloud-free-trial" data-title="Do you offer a free trial Trendz?">
                         <div class="container">
-                            <p>Trendz Cloud testing is available upon request (excluding Trendz Cloud Maker). To apply, please fill out the <a href="https://thingsboard.io/docs/contact-us/">Contact us</a> form.</p>
+                            <p>Trendz Cloud testing is available upon request (excluding Trendz Cloud Maker). To apply, please fill out the <a href="https://docs.sensef.ru/docs/contact-us/">Contact us</a> form.</p>
                         </div>
                     </div>
                     <div class="item" data-tag="h4" data-item-id="trendz-cloud-cancel-subscription" data-title="How to cancel my subscription?">
@@ -3832,12 +3832,12 @@ selfManagedPlan:
                     </div>
                     <div class="item" data-tag="h4" data-item-id="trendz-cloud-contact-billing" data-title="How can I contact ThingsBoard support for billing-related issues?">
                         <div class="container">
-                            <p>You can use the "<a href="https://thingsboard.io/docs/contact-us/">Contact Us</a>" form and select the "Other" topic. Our account managers will assist you with any billing-related issues.</p>
+                            <p>You can use the "<a href="https://docs.sensef.ru/docs/contact-us/">Contact Us</a>" form and select the "Other" topic. Our account managers will assist you with any billing-related issues.</p>
                         </div>
                     </div>
                     <div class="item" data-tag="h4" data-item-id="trendz-cloud-knowledge-base" data-title="Is there a knowledge base or self-service support portal?">
                         <div class="container">
-                            <p>All of our <a href="https://thingsboard.io/docs/paas/">documentation</a> is available on our website, with no hidden information. Additionally, you can use our Git forum for further resources and community support.</p>
+                            <p>All of our <a href="https://docs.sensef.ru/docs/paas/">documentation</a> is available on our website, with no hidden information. Additionally, you can use our Git forum for further resources and community support.</p>
                         </div>
                     </div>
                     <div class="item" data-tag="h4" data-item-id="trendz-cloud-priority-support" data-title="Can I get priority support with my plan?">
@@ -3976,7 +3976,7 @@ selfManagedPlan:
                     </div>
                     <div class="item" data-tag="h4" data-item-id="trendz-pay-as-you-go-annual-payment" data-title="Do you offer an annual payment option?">
                         <div class="container">
-                            <p>We currently offer only a monthly subscription with automatic payments via Stripe. For annual payments, please <a href="https://thingsboard.io/docs/contact-us/">contact us</a> to arrange a wire transfer invoice.</p>
+                            <p>We currently offer only a monthly subscription with automatic payments via Stripe. For annual payments, please <a href="https://docs.sensef.ru/docs/contact-us/">contact us</a> to arrange a wire transfer invoice.</p>
                         </div>
                     </div>
                     <div class="item" data-tag="h4" data-item-id="trendz-pay-as-you-go-payment-failure" data-title="What happens if my payment fails?">
@@ -4004,7 +4004,7 @@ selfManagedPlan:
                     </div>
                     <div class="item hidden" data-tag="h4" data-item-id="trendz-pay-as-you-go-discounts" data-title="Do you offer discounts for multiple licenses?">
                         <div class="container">
-                            <p>Contact our <a href="https://thingsboard.io/docs/contact-us/">sales team</a> for bulk pricing options.</p>
+                            <p>Contact our <a href="https://docs.sensef.ru/docs/contact-us/">sales team</a> for bulk pricing options.</p>
                         </div>
                     </div>
                     <div class="item hidden" data-tag="h4" data-item-id="trendz-pay-as-you-go-non-renewal" data-title="What happens if I don’t renew my subscription?">
@@ -4086,7 +4086,7 @@ selfManagedPlan:
                 <div id="faq-trendz-pay-as-you-go-trialsCancellationsAndRefunds" class="pi-accordion">
                     <div class="item" data-tag="h4" data-item-id="trendz-pay-as-you-go-free-trial" data-title="Do you offer a free trial for Trendz Analytics?">
                         <div class="container">
-                            <p>Yes, we provide a 30-day free trial for Trendz Analytics. You can activate the trial yourself on the <a href="https://thingsboard.io/pricing/?section=trendz-options&product=trendz-self-managed">Pricing</a> page. If you need a perpetual license, please fill out the <a href="https://thingsboard.io/docs/contact-us/">Contact us</a> form.</p>
+                            <p>Yes, we provide a 30-day free trial for Trendz Analytics. You can activate the trial yourself on the <a href="https://docs.sensef.ru/pricing/?section=trendz-options&product=trendz-self-managed">Pricing</a> page. If you need a perpetual license, please fill out the <a href="https://docs.sensef.ru/docs/contact-us/">Contact us</a> form.</p>
                         </div>
                     </div>
                     <div class="item" data-tag="h4" data-item-id="trendz-pay-as-you-go-cancel-subscription" data-title="What happens if I cancel my subscription?">
@@ -4124,12 +4124,12 @@ selfManagedPlan:
                     </div>
                     <div class="item" data-tag="h4" data-item-id="trendz-pay-as-you-go-24-7-support" data-title="Do you offer 24/7 support?">
                         <div class="container">
-                            <p>Yes, we can provide 24/7 support as part of our managed services with an additional signed SLA. Please <a href="https://thingsboard.io/docs/contact-us/">contact us</a> for more details.</p>
+                            <p>Yes, we can provide 24/7 support as part of our managed services with an additional signed SLA. Please <a href="https://docs.sensef.ru/docs/contact-us/">contact us</a> for more details.</p>
                         </div>
                     </div>
                     <div class="item" data-tag="h4" data-item-id="trendz-pay-as-you-go-installation-help" data-title="How can I get help with installation and setup?">
                         <div class="container">
-                            <p>If your subscription plan includes basic support and you have access to the Support Portal, the Trendz support team can assist with system deployment as part of basic support. However, this applies only if you follow recommended installation methods and architecture. Custom installation scripts or non-recommended deployment scenarios are not covered under basic support. If your subscription plan does not include basic support, we recommend using our documentation, tutorials, and optional professional services. To discuss options, please <a href="https://thingsboard.io/docs/contact-us/">contact us</a>.</p>
+                            <p>If your subscription plan includes basic support and you have access to the Support Portal, the Trendz support team can assist with system deployment as part of basic support. However, this applies only if you follow recommended installation methods and architecture. Custom installation scripts or non-recommended deployment scenarios are not covered under basic support. If your subscription plan does not include basic support, we recommend using our documentation, tutorials, and optional professional services. To discuss options, please <a href="https://docs.sensef.ru/docs/contact-us/">contact us</a>.</p>
                         </div>
                     </div>
                     <div class="item" data-tag="h4" data-item-id="trendz-pay-as-you-go-contact-support" data-title="How do I contact support?">
@@ -4251,7 +4251,7 @@ selfManagedPlan:
                     </div>
                     <div class="item" data-tag="h4" data-item-id="trendz-perpetual-missed-renewal" data-title="If I miss 1 year and then decide to prolong, how much should I pay?">
                         <div class="container">
-                            <p>If you miss the renewal for one year and then decide to renew, you will need to pay the yearly renewal fee for the missed period, in addition to the fee for the new period. If you miss 6 months after the initial expiration date, you can still renew by paying the annual fee, and the renewal will be calculated based on the original expiration date of your license, not from the moment you choose to renew. If you require further clarifications on this, please <a href="https://thingsboard.io/docs/contact-us/">contact us</a>, and we will be happy to explain.</p>
+                            <p>If you miss the renewal for one year and then decide to renew, you will need to pay the yearly renewal fee for the missed period, in addition to the fee for the new period. If you miss 6 months after the initial expiration date, you can still renew by paying the annual fee, and the renewal will be calculated based on the original expiration date of your license, not from the moment you choose to renew. If you require further clarifications on this, please <a href="https://docs.sensef.ru/docs/contact-us/">contact us</a>, and we will be happy to explain.</p>
                         </div>
                     </div>
                     <div class="load-more" onClick="loadMoreFaq(this)">
@@ -4269,7 +4269,7 @@ selfManagedPlan:
                     </div>
                     <div class="item hidden" data-tag="h4" data-item-id="trendz-perpetual-discounts" data-title="Do you offer discounts for multiple licenses?">
                         <div class="container">
-                            <p><a href="https://thingsboard.io/docs/contact-us/">Contact us</a> for bulk pricing options.</p>
+                            <p><a href="https://docs.sensef.ru/docs/contact-us/">Contact us</a> for bulk pricing options.</p>
                         </div>
                     </div>
                 </div>
@@ -4296,7 +4296,7 @@ selfManagedPlan:
                     </div>
                     <div class="item" data-tag="h4" data-item-id="trendz-perpetual-limits" data-title="Are there any device, asset, user, etc., limits for perpetual licenses?">
                         <div class="container">
-                            <p>No, there are no limits from a software perspective on the number of devices, assets, users, etc. The only limits you may encounter would be related to hardware capacity and the chosen architecture deployment mode. For more details, you can read our <a href="https://thingsboard.io/docs/pe/reference/">documentation</a> or <a href="https://thingsboard.io/docs/contact-us/">contact</a> our team.</p>
+                            <p>No, there are no limits from a software perspective on the number of devices, assets, users, etc. The only limits you may encounter would be related to hardware capacity and the chosen architecture deployment mode. For more details, you can read our <a href="https://docs.sensef.ru/docs/pe/reference/">documentation</a> or <a href="https://docs.sensef.ru/docs/contact-us/">contact</a> our team.</p>
                         </div>
                     </div>
                     <div class="item" data-tag="h4" data-item-id="trendz-perpetual-backup" data-title="Can I back up my Trendz instance?">
@@ -4328,7 +4328,7 @@ selfManagedPlan:
                 <div id="faq-trendz-perpetual-trialsCancellationsAndRefunds" class="pi-accordion">
                     <div class="item" data-tag="h4" data-item-id="trendz-perpetual-trial" data-title="Is there a trial version of the perpetual license?">
                         <div class="container">
-                            <p>Yes, we provide a 30-day free trial for Trendz Analytics. If you need a perpetual license, please fill out the <a href="https://thingsboard.io/docs/contact-us/">Contact us</a> form.</p>
+                            <p>Yes, we provide a 30-day free trial for Trendz Analytics. If you need a perpetual license, please fill out the <a href="https://docs.sensef.ru/docs/contact-us/">Contact us</a> form.</p>
                         </div>
                     </div>
                     <div class="item" data-tag="h4" data-item-id="trendz-perpetual-license-cancel" data-title="What happens if I cancel my perpetual license?">
@@ -4338,7 +4338,7 @@ selfManagedPlan:
                     </div>
                     <div class="item" data-tag="h4" data-item-id="trendz-perpetual-convert-trial" data-title="Can I convert a trial instance into a perpetual license?">
                         <div class="container">
-                            <p>Yes, you can convert your self-managed subscription to a perpetual license by purchasing the perpetual license and replacing the license key in the configuration file. For more details, please <a href="https://thingsboard.io/docs/contact-us/">contact us</a>.</p>
+                            <p>Yes, you can convert your self-managed subscription to a perpetual license by purchasing the perpetual license and replacing the license key in the configuration file. For more details, please <a href="https://docs.sensef.ru/docs/contact-us/">contact us</a>.</p>
                         </div>
                     </div>
                     <div class="item" data-tag="h4" data-item-id="trendz-perpetual-refunds" data-title="Do you offer refunds for perpetual license purchases?">
@@ -4360,7 +4360,7 @@ selfManagedPlan:
                     </div>
                     <div class="item" data-tag="h4" data-item-id="trendz-perpetual-additional-support" data-title="Can I purchase additional support for my perpetual license?">
                         <div class="container">
-                            <p>Yes, you can purchase additional services such as managed services, advanced SLAs, consultancy, development, and training. For more details, please <a href="https://thingsboard.io/docs/contact-us/">contact</a> our sales team.</p>
+                            <p>Yes, you can purchase additional services such as managed services, advanced SLAs, consultancy, development, and training. For more details, please <a href="https://docs.sensef.ru/docs/contact-us/">contact</a> our sales team.</p>
                         </div>
                     </div>
                     <div class="item" data-tag="h4" data-item-id="trendz-perpetual-contact-support" data-title="How do I contact support?">
@@ -4370,7 +4370,7 @@ selfManagedPlan:
                     </div>
                     <div class="item" data-tag="h4" data-item-id="trendz-perpetual-installation-support" data-title="How can I get help with installation and setup?">
                         <div class="container">
-                            <p>If your subscription plan includes basic support and you have access to the Support Portal, the Trendz support team can assist with system deployment as part of basic support. However, this applies only if you follow recommended installation methods and architecture. Custom installation scripts or non-recommended deployment scenarios are not covered under basic support. If your subscription plan does not include basic support, we recommend using our documentation, tutorials, and optional professional services. To discuss options, please <a href="https://thingsboard.io/docs/contact-us/">contact us</a>.</p>
+                            <p>If your subscription plan includes basic support and you have access to the Support Portal, the Trendz support team can assist with system deployment as part of basic support. However, this applies only if you follow recommended installation methods and architecture. Custom installation scripts or non-recommended deployment scenarios are not covered under basic support. If your subscription plan does not include basic support, we recommend using our documentation, tutorials, and optional professional services. To discuss options, please <a href="https://docs.sensef.ru/docs/contact-us/">contact us</a>.</p>
                         </div>
                     </div>
                     <div class="item" data-tag="h4" data-item-id="trendz-perpetual-development-services" data-title="Can you provide an IoT development service tailored to my specific needs?">
@@ -4427,7 +4427,7 @@ selfManagedPlan:
                     </div>
                     <div class="item hidden" data-tag="h4" data-item-id="edge-community-migration" data-title="Is it possible to migrate from the Edge Community Edition to the Edge Professional Edition?">
                         <div class="container">
-                            <p>Yes, migration from the Community Edition to the Professional Edition is possible. Since both editions share a similar architecture, the transition process will involve backing up relevant data, deploying the Professional Edition, and restoring the data. As the Professional Edition includes advanced features, some additional configuration may be required.<br>To simplify migration, we recommend using the <a href="https://thingsboard.io/docs/user-guide/version-control/#usage">version control</a> feature to transfer all entities. You can then move telemetry data using the <a href="https://thingsboard.io/docs/reference/rest-api/">REST API</a>. For more details on the migration process, please <a href="https://thingsboard.io/docs/contact-us/">contact us</a>.</p>
+                            <p>Yes, migration from the Community Edition to the Professional Edition is possible. Since both editions share a similar architecture, the transition process will involve backing up relevant data, deploying the Professional Edition, and restoring the data. As the Professional Edition includes advanced features, some additional configuration may be required.<br>To simplify migration, we recommend using the <a href="https://docs.sensef.ru/docs/user-guide/version-control/#usage">version control</a> feature to transfer all entities. You can then move telemetry data using the <a href="https://docs.sensef.ru/docs/reference/rest-api/">REST API</a>. For more details on the migration process, please <a href="https://docs.sensef.ru/docs/contact-us/">contact us</a>.</p>
                         </div>
                     </div>
                     <div class="item hidden" data-tag="h4" data-item-id="edge-community-clustering" data-title="Does the Edge Community Edition support clustering?">
@@ -4449,12 +4449,12 @@ selfManagedPlan:
                 <div id="faq-edge-community-installationAndDeployment" class="pi-accordion">
                     <div class="item" data-tag="h4" data-item-id="edge-community-installation" data-title="How can I install ThingsBoard Edge Community Edition?">
                         <div class="container">
-                            <p>You can install the Community Edition following the <a href="https://thingsboard.io/docs/user-guide/install/edge/installation-options/">installation guides</a> available in the official documentation.</p>
+                            <p>You can install the Community Edition following the <a href="https://docs.sensef.ru/docs/user-guide/install/edge/installation-options/">installation guides</a> available in the official documentation.</p>
                         </div>
                     </div>
                     <div class="item" data-tag="h4" data-item-id="edge-community-system-requirements" data-title="What are the system requirements for deploying the Community Edition?">
                         <div class="container">
-                            <p>The Community Edition is compatible with various operating systems, including Linux, Windows, and macOS. Specific requirements depend on the deployment method and can be found in the <a href="https://thingsboard.io/docs/user-guide/install/edge/installation-options/">installation guide</a>.</p>
+                            <p>The Community Edition is compatible with various operating systems, including Linux, Windows, and macOS. Specific requirements depend on the deployment method and can be found in the <a href="https://docs.sensef.ru/docs/user-guide/install/edge/installation-options/">installation guide</a>.</p>
                         </div>
                     </div>
                     <div class="item" data-tag="h4" data-item-id="edge-community-multi-tenancy" data-title="Does the ThingsBoard Edge Community Edition support multi-tenancy?">
@@ -4464,12 +4464,12 @@ selfManagedPlan:
                     </div>
                     <div class="item" data-tag="h4" data-item-id="edge-community-docker-support" data-title="Does the Community Edition support Docker deployment?">
                         <div class="container">
-                            <p>Yes, ThingsBoard Edge Community Edition supports Docker. Detailed instructions for Docker-based installation are provided in the <a href="https://thingsboard.io/docs/user-guide/install/edge/docker/">Docker deployment</a> guide.</p>
+                            <p>Yes, ThingsBoard Edge Community Edition supports Docker. Detailed instructions for Docker-based installation are provided in the <a href="https://docs.sensef.ru/docs/user-guide/install/edge/docker/">Docker deployment</a> guide.</p>
                         </div>
                     </div>
                     <div class="item" data-tag="h4" data-item-id="edge-community-database-support" data-title="What databases does the ThingsBoard Edge Community Edition support?">
                         <div class="container">
-                            <p>The Community Edition supports pure SQL or a hybrid SQL + NoSQL (for telemetry storage). For more details on database options, you can check <a href="https://thingsboard.io/docs/reference/#sql-vs-nosql-vs-hybrid-database-approach">here</a>.</p>
+                            <p>The Community Edition supports pure SQL or a hybrid SQL + NoSQL (for telemetry storage). For more details on database options, you can check <a href="https://docs.sensef.ru/docs/reference/#sql-vs-nosql-vs-hybrid-database-approach">here</a>.</p>
                         </div>
                     </div>
                     <div class="load-more" onClick="loadMoreFaq(this)">
@@ -4492,7 +4492,7 @@ selfManagedPlan:
                     </div>
                     <div class="item hidden" data-tag="h4" data-item-id="edge-community-legacy-devices" data-title="What should I do if I have legacy devices to connect?">
                         <div class="container">
-                            <p>If you have legacy devices that don't natively speak one of the protocols supported by ThingsBoard Edge (such as MQTT, CoAP, or HTTP), you can still connect them by installing <a href="https://thingsboard.io/docs/iot-gateway/">ThingsBoard IoT Gateway</a>. It will act as a bridge between your legacy devices and ThingsBoard Edge.<br>ThingsBoard IoT Gateway is available out-of-the-box and requires no additional fees.</p>
+                            <p>If you have legacy devices that don't natively speak one of the protocols supported by ThingsBoard Edge (such as MQTT, CoAP, or HTTP), you can still connect them by installing <a href="https://docs.sensef.ru/docs/iot-gateway/">ThingsBoard IoT Gateway</a>. It will act as a bridge between your legacy devices and ThingsBoard Edge.<br>ThingsBoard IoT Gateway is available out-of-the-box and requires no additional fees.</p>
                         </div>
                     </div>
                 </div>
@@ -4527,7 +4527,7 @@ selfManagedPlan:
                     </div>
                     <div class="item" data-tag="h4" data-item-id="edge-community-third-party-integration" data-title="Can I integrate third-party systems with ThingsBoard Edge Community Edition?">
                         <div class="container">
-                            <p>Yes, you can integrate the ThingsBoard Edge Community Edition with third-party systems through REST APIs. However, the <a href="https://thingsboard.io/docs/pe/edge/user-guide/integrations/">platform integrations</a>, which are available only in the Professional Edition, are not included in the Community Edition.</p>
+                            <p>Yes, you can integrate the ThingsBoard Edge Community Edition with third-party systems through REST APIs. However, the <a href="https://docs.sensef.ru/docs/pe/edge/user-guide/integrations/">platform integrations</a>, which are available only in the Professional Edition, are not included in the Community Edition.</p>
                         </div>
                     </div>
                     <div class="item" data-tag="h4" data-item-id="edge-community-automation" data-title="Can I automate device management and telemetry processing?">
@@ -4540,7 +4540,7 @@ selfManagedPlan:
                     </div>
                     <div class="item hidden" data-tag="h4" data-item-id="edge-community-ota" data-title="Does Community Edition support OTA (Over-the-Air) firmware updates?">
                         <div class="container">
-                            <p>Yes, the Community Edition supports <a href="https://thingsboard.io/docs/edge/user-guide/ota-updates/">OTA (Over-the-Air)</a> firmware updates.</p>
+                            <p>Yes, the Community Edition supports <a href="https://docs.sensef.ru/docs/edge/user-guide/ota-updates/">OTA (Over-the-Air)</a> firmware updates.</p>
                         </div>
                     </div>
                     <div class="item hidden" data-tag="h4" data-item-id="edge-community-mobile-app" data-title="Is there a mobile app for ThingsBoard Edge Community Edition?">
@@ -4555,7 +4555,7 @@ selfManagedPlan:
                     </div>
                     <div class="item hidden" data-tag="h4" data-item-id="edge-community-upgrade" data-title="How do I upgrade to the latest version of ThingsBoard Edge?">
                         <div class="container">
-                            <p>In order to upgrade to the latest version of ThingsBoard Edge, please follow <a href="https://thingsboard.io/docs/user-guide/install/edge/upgrade-instructions/">these instructions</a>.</p>
+                            <p>In order to upgrade to the latest version of ThingsBoard Edge, please follow <a href="https://docs.sensef.ru/docs/user-guide/install/edge/upgrade-instructions/">these instructions</a>.</p>
                         </div>
                     </div>
                 </div>
@@ -4581,14 +4581,14 @@ selfManagedPlan:
                                 <ul>
                                     <li><a href="https://github.com/thingsboard/thingsboard-edge">GitHub</a> (report issues, contribute)</li>
                                     <li><a href="https://stackoverflow.com/questions/tagged/thingsboard">Stack Overflow</a> (for developer-related questions)</li>
-                                    <li><a href="https://thingsboard.io/docs/edge/">Documentation & Tutorials</a></li>
+                                    <li><a href="https://docs.sensef.ru/docs/edge/">Documentation & Tutorials</a></li>
                                 </ul>
                             </p>
                         </div>
                     </div>
                     <div class="item" data-tag="h4" data-item-id="edge-community-updates" data-title="Are software updates available for ThingsBoard Edge Community Edition?">
                         <div class="container">
-                            <p>Yes, updates for all <a href="https://thingsboard.io/docs/edge/releases/">versions</a> are available.</p>
+                            <p>Yes, updates for all <a href="https://docs.sensef.ru/docs/edge/releases/">versions</a> are available.</p>
                         </div>
                     </div>
                     <div class="item" data-tag="h4" data-item-id="edge-community-bug-report" data-title="What should I do if I find a bug in Community Edition?">
@@ -4620,12 +4620,12 @@ selfManagedPlan:
                     </div>
                     <div class="item" data-tag="h4" data-item-id="edge-community-updates" data-title="Are software updates available for Community Edition?">
                         <div class="container">
-                            <p>Yes, updates for all <a href="https://thingsboard.io/docs/edge/releases/">versions</a> are available.</p>
+                            <p>Yes, updates for all <a href="https://docs.sensef.ru/docs/edge/releases/">versions</a> are available.</p>
                         </div>
                     </div>
                     <div class="item" data-tag="h4" data-item-id="edge-community-developer-help" data-title="Can I get ThingsBoard developers to help with my Community Edition deployment?">
                         <div class="container">
-                            <p>Yes, you can request such assistance as an additional paid service. Please, <a href="https://thingsboard.io/docs/contact-us/">contact us</a> to discuss how we can help.</p>
+                            <p>Yes, you can request such assistance as an additional paid service. Please, <a href="https://docs.sensef.ru/docs/contact-us/">contact us</a> to discuss how we can help.</p>
                         </div>
                     </div>
                 </div>
@@ -4700,7 +4700,7 @@ selfManagedPlan:
                     </div>
                     <div class="item" data-tag="h4" data-item-id="edge-pay-as-you-go-pricing-plans" data-title="What are the pricing plans for the Pay-As-You-Go (PAYG) model for ThingsBoard Edge?">
                         <div class="container">
-                            <p>ThingsBoard Edge PAYG offers flexible monthly subscription plans, with tiers based on the number of devices and assets. We support 4 predefined plans to cater to different needs. The beginner plan includes support for up to 50 devices and 50 assets. All subscription plans include unlimited dashboards, API calls, data points & messages. For more details, visit the ThingsBoard Edge <a href="https://thingsboard.io/pricing/?section=thingsboard-edge">pricing page</a>.</p>
+                            <p>ThingsBoard Edge PAYG offers flexible monthly subscription plans, with tiers based on the number of devices and assets. We support 4 predefined plans to cater to different needs. The beginner plan includes support for up to 50 devices and 50 assets. All subscription plans include unlimited dashboards, API calls, data points & messages. For more details, visit the ThingsBoard Edge <a href="https://docs.sensef.ru/pricing/?section=thingsboard-edge">pricing page</a>.</p>
                         </div>
                     </div>
                     <div class="load-more" onClick="loadMoreFaq(this)">
@@ -4723,12 +4723,12 @@ selfManagedPlan:
                     </div>
                     <div class="item hidden" data-tag="h4" data-item-id="edge-pay-as-you-go-migration" data-title="Can I migrate from one subscription plan to another?">
                         <div class="container">
-                            <p>Yes. One of the greatest features of <a href="https://thingsboard.io/products/license-server/">ThingsBoard License Server</a> is the ability to change subscription plans. Now it is as simple as that. The flow is: Subscription details — Update subscription — Choose a plan. Also, there is an Update subscription button in the action icons tray.</p>
+                            <p>Yes. One of the greatest features of <a href="https://docs.sensef.ru/products/license-server/">ThingsBoard License Server</a> is the ability to change subscription plans. Now it is as simple as that. The flow is: Subscription details — Update subscription — Choose a plan. Also, there is an Update subscription button in the action icons tray.</p>
                         </div>
                     </div>
                     <div class="item hidden" data-tag="h4" data-item-id="edge-pay-as-you-go-custom-plan" data-title="Can I create a custom plan with the ability to choose limits for devices, assets, users, etc.?">
                         <div class="container">
-                            <p>ThingsBoard Edge does not offer fully customizable plans with user-defined limits. However, the Mega subscription provides a dedicated environment with no device number or assets limits. If you require a customized solution, please <a href="https://thingsboard.io/docs/contact-us/">contact us</a> to discuss available options.</p>
+                            <p>ThingsBoard Edge does not offer fully customizable plans with user-defined limits. However, the Mega subscription provides a dedicated environment with no device number or assets limits. If you require a customized solution, please <a href="https://docs.sensef.ru/docs/contact-us/">contact us</a> to discuss available options.</p>
                         </div>
                     </div>
                     <div class="item hidden" data-tag="h4" data-item-id="edge-pay-as-you-go-additional-costs" data-title="Are there any additional costs beyond the subscription fee?">
@@ -4760,7 +4760,7 @@ selfManagedPlan:
                     </div>
                     <div class="item" data-tag="h4" data-item-id="edge-pay-as-you-go-limits" data-title="What are the device, message, and data storage limits for each plan?">
                         <div class="container">
-                            <p>Limits for devices and assets vary by plan; messages and data storage are not limited; details can be found on our plans definition <a href="https://thingsboard.io/pricing/?section=thingsboard-edge">page</a>.</p>
+                            <p>Limits for devices and assets vary by plan; messages and data storage are not limited; details can be found on our plans definition <a href="https://docs.sensef.ru/pricing/?section=thingsboard-edge">page</a>.</p>
                         </div>
                     </div>
                 </div>
@@ -4780,22 +4780,22 @@ selfManagedPlan:
                             <p><strong>Refund Policy</strong></p>
                             <p>The License fee is non-refundable, regardless of any circumstances. Customers may manage their subscription plans: update or cancel them. Once the subscription is deleted before expiration, Stripe will keep the balance. After a certain time period (about an hour), a positive Amount due with the remaining credits will appear in the Billing section of the License portal. This sum is deducted from the Total fee whenever a particular customer purchases a new plan or a perpetual license.</p>
                             <p><strong>Delivery Policy</strong></p>
-                            <p>The software is available for download and installation from our website. See <a href="https://thingsboard.io/docs/user-guide/install/pe/installation-options/">Installation Guides</a> for more details. In order to activate the software, you will need to obtain the license key. Instructions on how to obtain and use the license key are provided in the installation guide. See <a href="https://www.youtube.com/watch?v=dK-QDFGxWek">How-to get pay-as-you-go</a> subscription or <a href="https://www.youtube.com/watch?v=GPe0lHolWek">How-to get a perpetual license</a> for more details. Please <a href="https://thingsboard.io/docs/contact-us/">contact us</a> if you have any questions or require support.</p>
+                            <p>The software is available for download and installation from our website. See <a href="https://docs.sensef.ru/docs/user-guide/install/pe/installation-options/">Installation Guides</a> for more details. In order to activate the software, you will need to obtain the license key. Instructions on how to obtain and use the license key are provided in the installation guide. See <a href="https://www.youtube.com/watch?v=dK-QDFGxWek">How-to get pay-as-you-go</a> subscription or <a href="https://www.youtube.com/watch?v=GPe0lHolWek">How-to get a perpetual license</a> for more details. Please <a href="https://docs.sensef.ru/docs/contact-us/">contact us</a> if you have any questions or require support.</p>
                         </div>
                     </div>
                     <div class="item" data-tag="h4" data-item-id="edge-pay-as-you-go-billing-support" data-title="How can I contact ThingsBoard support for billing-related issues?">
                         <div class="container">
-                            <p>You can use the <a href="https://thingsboard.io/docs/contact-us/">contact us</a> form and select the "Other" topic. Our account managers will assist you with any billing-related issues.</p>
+                            <p>You can use the <a href="https://docs.sensef.ru/docs/contact-us/">contact us</a> form and select the "Other" topic. Our account managers will assist you with any billing-related issues.</p>
                         </div>
                     </div>
                     <div class="item" data-tag="h4" data-item-id="edge-pay-as-you-go-knowledge-base" data-title="Is there a knowledge base or self-service support portal?">
                         <div class="container">
-                            <p>All of our <a href="https://thingsboard.io/docs/pe/edge/">documentation</a> is available on our website, with no hidden information. Additionally, you can use our <a href="https://github.com/thingsboard/thingsboard-edge/issues">GitHub issues</a> for community support.</p>
+                            <p>All of our <a href="https://docs.sensef.ru/docs/pe/edge/">documentation</a> is available on our website, with no hidden information. Additionally, you can use our <a href="https://github.com/thingsboard/thingsboard-edge/issues">GitHub issues</a> for community support.</p>
                         </div>
                     </div>
                     <div class="item" data-tag="h4" data-item-id="edge-pay-as-you-go-24-7-support" data-title="Do you offer 24/7 customer support?">
                         <div class="container">
-                            <p>Yes, we do provide 24/7 support. If this is what you're looking for, please <a href="https://thingsboard.io/docs/contact-us/">contact us</a> for a more detailed discussion about your specific needs.</p>
+                            <p>Yes, we do provide 24/7 support. If this is what you're looking for, please <a href="https://docs.sensef.ru/docs/contact-us/">contact us</a> for a more detailed discussion about your specific needs.</p>
                         </div>
                     </div>
                     <div class="item" data-tag="h4" data-item-id="edge-pay-as-you-go-development-services" data-title="Can you provide an IoT development service tailored to my specific needs?">
@@ -4822,12 +4822,12 @@ selfManagedPlan:
                     </div>
                     <div class="item" data-tag="h4" data-item-id="edge-pay-as-you-go-wire-transfer" data-title="I cannot pay by card, may we use wire instead?">
                         <div class="container">
-                            <p>Sure. In this case, you must reach out to our sales team via <a href="https://thingsboard.io/docs/contact-us/">contact us</a>. If you have ongoing communication with the account manager or success manager on our end, please refer your request to that person.</p>
+                            <p>Sure. In this case, you must reach out to our sales team via <a href="https://docs.sensef.ru/docs/contact-us/">contact us</a>. If you have ongoing communication with the account manager or success manager on our end, please refer your request to that person.</p>
                         </div>
                     </div>
                     <div class="item" data-tag="h4" data-item-id="edge-pay-as-you-go-payment-frequency" data-title="Can I pay monthly or annually?">
                         <div class="container">
-                            <p>We currently offer only a monthly subscription with automatic payments via Stripe. For annual payments, please <a href="https://thingsboard.io/docs/contact-us/">contact our team</a> to arrange a wire transfer invoice.</p>
+                            <p>We currently offer only a monthly subscription with automatic payments via Stripe. For annual payments, please <a href="https://docs.sensef.ru/docs/contact-us/">contact our team</a> to arrange a wire transfer invoice.</p>
                         </div>
                     </div>
                     <div class="item" data-tag="h4" data-item-id="edge-pay-as-you-go-payment-failure" data-title="What happens if my payment fails?">
@@ -4852,7 +4852,7 @@ selfManagedPlan:
                 <div id="faq-edge-pay-as-you-go-trialsCancellationsAndRefunds" class="pi-accordion">
                     <div class="item" data-tag="h4" data-item-id="edge-pay-as-you-go-free-trial-start" data-title="How do I start a free trial?">
                         <div class="container">
-                            <p>The Edge free trial license key is provided when you create an Edge instance inside ThingsBoard <a href="https://thingsboard.io/pricing/?product=thingsboard-pe">Professional Edition</a> or <a href="https://thingsboard.io/pricing/?product=thingsboard-cloud">Cloud</a>. This key is only active for 30 days after activation. To obtain the permanent license key, please navigate to the <a href="https://thingsboard.io/pricing/?section=thingsboard-edge">pricing page</a> and select the best licensing option for your case.</p>
+                            <p>The Edge free trial license key is provided when you create an Edge instance inside ThingsBoard <a href="https://docs.sensef.ru/pricing/?product=thingsboard-pe">Professional Edition</a> or <a href="https://docs.sensef.ru/pricing/?product=thingsboard-cloud">Cloud</a>. This key is only active for 30 days after activation. To obtain the permanent license key, please navigate to the <a href="https://docs.sensef.ru/pricing/?section=thingsboard-edge">pricing page</a> and select the best licensing option for your case.</p>
                         </div>
                     </div>
                     <div class="item" data-tag="h4" data-item-id="edge-pay-as-you-go-trial-end" data-title="What happens when my free trial ends?">
@@ -4963,7 +4963,7 @@ selfManagedPlan:
                     </div>
                     <div class="item hidden" data-tag="h4" data-item-id="edge-perpetual-renewal-delay" data-title="If I miss 1 year and then decide to prolong, how much should I pay?">
                         <div class="container">
-                            <p>If you miss the renewal for one year and then decide to renew, you will need to pay the yearly renewal fee for the missed period, in addition to the fee for the new period. If you miss 6 months after the initial expiration date, you can still renew by paying the annual fee, and the renewal will be calculated based on the original expiration date of your license, not from the moment you choose to renew. If you require further clarifications on this, please <a href="https://thingsboard.io/docs/contact-us/">contact us</a>, and we will be happy to explain.</p>
+                            <p>If you miss the renewal for one year and then decide to renew, you will need to pay the yearly renewal fee for the missed period, in addition to the fee for the new period. If you miss 6 months after the initial expiration date, you can still renew by paying the annual fee, and the renewal will be calculated based on the original expiration date of your license, not from the moment you choose to renew. If you require further clarifications on this, please <a href="https://docs.sensef.ru/docs/contact-us/">contact us</a>, and we will be happy to explain.</p>
                         </div>
                     </div>
                     <div class="item hidden" data-tag="h4" data-item-id="edge-perpetual-additional-costs" data-title="Is there an additional payment for the software use besides the license fee?">
@@ -4978,7 +4978,7 @@ selfManagedPlan:
                     </div>
                     <div class="item hidden" data-tag="h4" data-item-id="edge-perpetual-bulk-pricing" data-title="Do you offer discounts for multiple licenses?">
                         <div class="container">
-                            <p>Price reduction starts from 10 licenses. Discount tiers are as follows: 10–50 Edges — 10%, 51–100 Edges — 12%, above 100 Edges — 15%+ off the license cost regardless of the plan. Contact our <a href="https://thingsboard.io/docs/contact-us/">sales team</a> for bulk pricing options.</p>
+                            <p>Price reduction starts from 10 licenses. Discount tiers are as follows: 10–50 Edges — 10%, 51–100 Edges — 12%, above 100 Edges — 15%+ off the license cost regardless of the plan. Contact our <a href="https://docs.sensef.ru/docs/contact-us/">sales team</a> for bulk pricing options.</p>
                         </div>
                     </div>
                 </div>
@@ -4995,7 +4995,7 @@ selfManagedPlan:
                     </div>
                     <div class="item" data-tag="h4" data-item-id="edge-perpetual-limits" data-title="Are there any device, asset, user, etc., limits for perpetual licenses?">
                         <div class="container">
-                            <p>No, there are no limits from a software perspective on the number of devices, assets, users, etc. The only limits you may encounter would be related to hardware capacity and the chosen architecture deployment mode. For more details, you can read our <a href="https://thingsboard.io/docs/pe/edge/edge-architecture/">documentation</a> or <a href="https://thingsboard.io/docs/contact-us/">contact</a> our team.</p>
+                            <p>No, there are no limits from a software perspective on the number of devices, assets, users, etc. The only limits you may encounter would be related to hardware capacity and the chosen architecture deployment mode. For more details, you can read our <a href="https://docs.sensef.ru/docs/pe/edge/edge-architecture/">documentation</a> or <a href="https://docs.sensef.ru/docs/contact-us/">contact</a> our team.</p>
                         </div>
                     </div>
                     <div class="item" data-tag="h4" data-item-id="edge-perpetual-offline" data-title="Can I run offline?">
@@ -5052,7 +5052,7 @@ selfManagedPlan:
                     </div>
                     <div class="item" data-tag="h4" data-item-id="edge-perpetual-convert" data-title="Can I convert a trial instance into a perpetual license?">
                         <div class="container">
-                            <p>Yes, you can convert your self-managed subscription to a perpetual license by purchasing the perpetual license and replacing the license key in the Edge configuration. For more details, please <a href="https://thingsboard.io/docs/contact-us/">contact us</a>.</p>
+                            <p>Yes, you can convert your self-managed subscription to a perpetual license by purchasing the perpetual license and replacing the license key in the Edge configuration. For more details, please <a href="https://docs.sensef.ru/docs/contact-us/">contact us</a>.</p>
                         </div>
                     </div>
                     <div class="item" data-tag="h4" data-item-id="edge-perpetual-refund" data-title="Do you offer refunds for perpetual license purchases?">
@@ -5075,17 +5075,17 @@ selfManagedPlan:
                     </div>
                     <div class="item" data-tag="h4" data-item-id="edge-perpetual-additional-support" data-title="Can I purchase additional support for my perpetual license?">
                         <div class="container">
-                            <p>Yes, you can purchase additional services such as managed services, advanced SLAs, consultancy, development, and training. For more details, please contact <a href="https://thingsboard.io/docs/contact-us/">our sales</a> team.</p>
+                            <p>Yes, you can purchase additional services such as managed services, advanced SLAs, consultancy, development, and training. For more details, please contact <a href="https://docs.sensef.ru/docs/contact-us/">our sales</a> team.</p>
                         </div>
                     </div>
                     <div class="item" data-tag="h4" data-item-id="edge-perpetual-24-7-support" data-title="Do you offer 24/7 support?">
                         <div class="container">
-                            <p>Yes, we can provide 24/7 support as part of our managed services with an additional signed SLA. Please <a href="https://thingsboard.io/docs/contact-us/">contact us</a> for more details.</p>
+                            <p>Yes, we can provide 24/7 support as part of our managed services with an additional signed SLA. Please <a href="https://docs.sensef.ru/docs/contact-us/">contact us</a> for more details.</p>
                         </div>
                     </div>
                     <div class="item" data-tag="h4" data-item-id="edge-perpetual-maintenance" data-title="Do you provide full maintenance services for ThingsBoard Edge deployed on my infrastructure?">
                         <div class="container">
-                            <p>Yes, ThingsBoard offers full maintenance services for instances deployed on your infrastructure. These services can be customized based on your needs and are provided under an additional SLA, ensuring regular monitoring, updates, and issue resolution. For more details, please <a href="https://thingsboard.io/docs/contact-us/">contact us</a>.</p>
+                            <p>Yes, ThingsBoard offers full maintenance services for instances deployed on your infrastructure. These services can be customized based on your needs and are provided under an additional SLA, ensuring regular monitoring, updates, and issue resolution. For more details, please <a href="https://docs.sensef.ru/docs/contact-us/">contact us</a>.</p>
                         </div>
                     </div>
                     <div class="item" data-tag="h4" data-item-id="edge-perpetual-contact-support" data-title="How do I contact support?">
@@ -5098,7 +5098,7 @@ selfManagedPlan:
                     </div>
                     <div class="item hidden" data-tag="h4" data-item-id="edge-perpetual-installation-help" data-title="How can I get help with installation and setup?">
                         <div class="container">
-                            <p>All perpetual license packages provide dedicated support with predefined response time and access to the ThingsBoard Support Portal. Our expert support team is available to assist you with system deployment by following our recommended installation methods and architecture, ensuring a smooth and efficient setup. For custom installation scripts or alternative deployment scenarios, additional support options are available, and you can <a href="https://thingsboard.io/docs/contact-us/">contact us</a> to discuss your needs.</p>
+                            <p>All perpetual license packages provide dedicated support with predefined response time and access to the ThingsBoard Support Portal. Our expert support team is available to assist you with system deployment by following our recommended installation methods and architecture, ensuring a smooth and efficient setup. For custom installation scripts or alternative deployment scenarios, additional support options are available, and you can <a href="https://docs.sensef.ru/docs/contact-us/">contact us</a> to discuss your needs.</p>
                         </div>
                     </div>
                     <div class="item hidden" data-tag="h4" data-item-id="edge-perpetual-development-services" data-title="Can you provide an IoT development service tailored to my specific needs?">

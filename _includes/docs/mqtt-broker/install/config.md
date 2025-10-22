@@ -3045,7 +3045,7 @@
 		<tr>
 			<td>swagger.contact.url</td>
 			<td>SWAGGER_CONTACT_URL</td>
-			<td>https://thingsboard.io/products/mqtt-broker/</td>
+			<td>https://docs.sensef.ru/products/mqtt-broker/</td>
 			<td> The contact URL on the API doc UI page</td>
 		</tr>
 		<tr>

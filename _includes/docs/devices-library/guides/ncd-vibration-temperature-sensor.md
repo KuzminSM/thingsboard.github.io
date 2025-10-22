@@ -36,7 +36,7 @@ The Industrial IoT Wireless Vibration and Temperature Sensor captures critical f
 
 To transmit data from NCD Industrial IoT sensors to ThingsBoard, certain prerequisites must be met.
 
-- [ThingsBoard Cloud](https://thingsboard.io/installations/){:target="_blank"} account 
+- [ThingsBoard Cloud](https://docs.sensef.ru/installations/){:target="_blank"} account 
 - NCD Industrial IoT Wireless Vibration Temperature Sensor V3
 - NCD Enterprise IIoT Gateway Standard or Lite version:
   - [Enterprise IIoT Gateway](https://store.ncd.io/product/enterprise-iiot-gateway/){:target="_blank"}
@@ -126,8 +126,8 @@ In this tutorial, our primary focus will be on transmitting **RUN sensor mode** 
 
 You can find the documentation to help you get started with ThingsBoard Professional Edition, as well as the MQTT Gateway API Reference, available here:
 
-- [Getting Started with ThingsBoard Professional Edition](https://thingsboard.io/docs/paas/eu/getting-started-guides/helloworld/){:target="_blank"}
-- [MQTT Gateway API Reference](https://thingsboard.io/docs/reference/gateway-mqtt-api/){:target="_blank"}
+- [Getting Started with ThingsBoard Professional Edition](https://docs.sensef.ru/docs/paas/eu/getting-started-guides/helloworld/){:target="_blank"}
+- [MQTT Gateway API Reference](https://docs.sensef.ru/docs/reference/gateway-mqtt-api/){:target="_blank"}
 
 The first step is to [sign in using your ThingsBoard account](https://thingsboard.cloud/login){:target="_blank"}. 
 

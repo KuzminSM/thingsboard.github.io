@@ -21,7 +21,7 @@ ThingsBoard CE is the most feature-rich, open-source IoT platform in the world, 
 - *Data Visualization*: Use real-time, interactive dashboards to visualize telemetry data.
 - *High Scalability*: A fault-tolerant clustering architecture supports millions of devices.
 
-:pushpin: Learn more: [Community Edition](https://thingsboard.io/docs/)
+:pushpin: Learn more: [Community Edition](https://docs.sensef.ru/docs/)
 
 ## ThingsBoard Professional Edition (PE): Enterprise-Grade Features & Support
 
@@ -40,7 +40,7 @@ ThingsBoard PE is built for enterprises and businesses that want to reduce time-
 - *Support & SLA*: Get dedicated support and a guaranteed uptime SLA, key for our managed cloud offerings.
 
 
-:pushpin: Learn more: [Professional Edition](https://thingsboard.io/docs/pe/)
+:pushpin: Learn more: [Professional Edition](https://docs.sensef.ru/docs/pe/)
 
 ---
 
@@ -100,7 +100,7 @@ Choosing the right edition is only half the job. It’s equally important to sel
 
 2. **Self-managed (On-premise)**
    Full control in your own or isolated data centers, or offline/on-premise setups.
-   :link: [Self-managed](https://thingsboard.io/docs/user-guide/install/installation-options/)
+   :link: [Self-managed](https://docs.sensef.ru/docs/user-guide/install/installation-options/)
 
 ---
 
@@ -110,17 +110,17 @@ Depending on your control, responsibility, and time-to-market requirements, Thin
 
 1. **ThingsBoard Cloud (Europe & North America)**
    The fastest way to start. Managed by the ThingsBoard team — just connect your devices and start.
-   :link: [ThingsBoard Cloud](https://thingsboard.io/installations/)
+   :link: [ThingsBoard Cloud](https://docs.sensef.ru/installations/)
 
 2. **ThingsBoard Private Cloud (EU, US, APAC)**
    A dedicated and fully managed cluster with SLA guarantees.
    Ideal for scaling to hundreds of thousands or millions of devices.
-   :link: [Private Cloud](https://thingsboard.io/pricing/?product=thingsboard-private-cloud)
+   :link: [Private Cloud](https://docs.sensef.ru/pricing/?product=thingsboard-private-cloud)
 
 3. **Self-managed (On-premise PE)**
    Full control in your own data centers.
    ThingsBoard provides remote support for self-managed installations.
-   :link: [Self-managed](https://thingsboard.io/pricing/?product=thingsboard-pe&solution=pe-pay-as-you-go)
+   :link: [Self-managed](https://docs.sensef.ru/pricing/?product=thingsboard-pe&solution=pe-pay-as-you-go)
 
 ---
 

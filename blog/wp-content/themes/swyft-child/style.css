@@ -461,7 +461,7 @@ header .header-buttons{
 	top: 0;
 	left: 0;
 	transform: none;
-	background-image: url(https://img.thingsboard.io/thingsboard_logo_b.svg);
+	background-image: url(https://docs.sensef.ru/images/thingsboard_logo_b.svg);
 	background-size: contain;
 	background-position: center center;
 	background-repeat: no-repeat;
@@ -765,14 +765,6 @@ header .header-buttons{
 	 filter: invert(100%) sepia(68%) saturate(0%) hue-rotate(350deg) brightness(113%) contrast(101%);
 }
 
-.dark_styles header .support-ukraine p{
-    color: #FFFFFF !important;
-}
-
-.dark_styles .stop-war svg{
-	fill: #FFFFFF;
-}
-
 .dark_styles header .head-menu ul a{
 	color: #FFFFFF !important;
 }
@@ -1014,10 +1006,6 @@ header .header-buttons{
 
 a{
 	text-decoration: none;
-}
-
-.support-ukraine{
-	white-space: nowrap;
 }
 
 header{
@@ -1458,7 +1446,7 @@ header .logo {
     top: 0;
     left: 0;
     transform: none;
-    background-image: url(https://img.thingsboard.io/thingsboard_logo_b.svg);
+    background-image: url(https://docs.sensef.ru/images/thingsboard_logo_b.svg);
     background-size: contain;
     background-position: center center;
     background-repeat: no-repeat;
@@ -1693,7 +1681,7 @@ header .logo {
 
 @media screen and (max-width: 1280px) and (max-width:1024px) {
     #home .opened-burger .burger,#docs .opened-burger .burger,#common .opened-burger .burger,#thingsboard-paas .opened-burger .burger,#thingsboard-pe .opened-burger .burger,#trendz .opened-burger .burger,#thingsboard-edge .opened-burger .burger {
-        background-image:url(https://img.thingsboard.io/s-close-icon.svg)
+        background-image:url(https://docs.sensef.ru/images/s-close-icon.svg)
     }
 }
 
@@ -1796,7 +1784,7 @@ header .logo {
 		height: 135px;
 	}
 	
-    #home .opened-burger .support-ukraine p,#docs .opened-burger .support-ukraine p,#common .opened-burger .support-ukraine p,#thingsboard-paas .opened-burger .support-ukraine p,#thingsboard-pe .opened-burger .support-ukraine p,#trendz .opened-burger .support-ukraine p,#thingsboard-edge .opened-burger .support-ukraine p {
+    #home .opened-burger p,#docs .opened-burger p,#common .opened-burger p,#thingsboard-paas .opened-burger p,#thingsboard-pe .opened-burger p,#trendz .opened-burger p,#thingsboard-edge .opened-burger p {
         color:#000
     }
 
@@ -1948,7 +1936,7 @@ header .logo {
     }
 
     header.opened-burger .burger {
-        background-image: url(https://img.thingsboard.io/close-icon.svg)
+        background-image: url(https://docs.sensef.ru/images/close-icon.svg)
     }
 	
 	header .head-menu ul li .centered-sub .sub-menu.open-sub .sub-groups .group .column:not(:first-child) .group-name {
@@ -1973,7 +1961,7 @@ header .logo {
 
 @media screen and (max-width: 1280px) and (max-width:1024px) {
     header.opened-burger .burger {
-        background-image:url(https://img.thingsboard.io/s-close-icon.svg)
+        background-image:url(https://docs.sensef.ru/images/s-close-icon.svg)
     }
 }
 
@@ -2137,7 +2125,7 @@ header .logo {
     right: 22px;
     display: none;
     filter: unset;
-    background-image: url(https://img.thingsboard.io/burger-icon.svg);
+    background-image: url(https://docs.sensef.ru/images/burger-icon.svg);
 	background-color: unset;
     height: 47px;
     width: 47px;
@@ -2148,7 +2136,7 @@ header .logo {
     .burger {
         height: 37px;
         width: 37px;
-        background-image: url(https://img.thingsboard.io/s-burger-icon.svg)
+        background-image: url(https://docs.sensef.ru/images/s-burger-icon.svg)
     }
 }
 
@@ -2199,7 +2187,7 @@ footer main .deeper,footer div.main-div .deeper {
 }
 
 footer main .deeper .footer-logo,footer div.main-div .deeper .footer-logo {
-    background-image: url(https://img.thingsboard.io/thingsboard_logo_b.svg);
+    background-image: url(https://docs.sensef.ru/images/thingsboard_logo_b.svg);
     filter: invert(100%) sepia(68%) saturate(0%) hue-rotate(350deg) brightness(113%) contrast(101%);
     width: 180px;
     height: 60px;
@@ -2444,7 +2432,7 @@ section {
 }
 
 #home #hero div:nth-child(1) {
-    background-image: url(https://img.thingsboard.io/tb-cover.webp)!important
+    background-image: url(https://docs.sensef.ru/images/tb-cover.webp)!important
 }
 
 #home #hero .video-cover {
@@ -2459,7 +2447,7 @@ section {
     background-color: #000;
     background-repeat: no-repeat;
     background-position: 50% 50%;
-    background-image: url(https://img.thingsboard.io/tb-cover.webp)
+    background-image: url(https://docs.sensef.ru/images/tb-cover.webp)
 }
 
 #home #hero #hero-content {
@@ -3644,7 +3632,7 @@ hr {
     position: absolute;
     filter: invert(100%) sepia(74%) saturate(108%) hue-rotate(175deg) brightness(90%) contrast(96%);
     outline: none;
-    background-image: url(https://img.thingsboard.io/slider-arrow.svg);
+    background-image: url(https://docs.sensef.ru/images/slider-arrow.svg);
     background-color: transparent;
     width: 17px;
     height: 50px;
@@ -3690,12 +3678,6 @@ hr {
         width:72px;
         height: 4px
     }
-}
-
-.stop-war{
-	position: relative;
-	margin-bottom: 0;
-	padding-left: 10px;
 }
 
 .ban {

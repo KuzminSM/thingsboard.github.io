@@ -7,7 +7,7 @@ description: Learn how to use ThingsBoard IoT Gateway's device provisioning feat
 * TOC
 {:toc}
 
-The **ThingsBoard IoT Gateway** supports the [device provisioning](https://thingsboard.io/docs/user-guide/device-provisioning/){:target="_blank"} feature, allowing it to **automatically register itself** on the ThingsBoard platform and obtain credentials without manual setup.
+The **ThingsBoard IoT Gateway** supports the [device provisioning](https://docs.sensef.ru/docs/user-guide/device-provisioning/){:target="_blank"} feature, allowing it to **automatically register itself** on the ThingsBoard platform and obtain credentials without manual setup.
 
 This is especially useful for:  
 - **Device manufacturers** — enabling mass deployment with minimal configuration.

@@ -204,7 +204,7 @@ More usage examples can be found in the [Usage examples](/docs/iot-gateway/confi
 
 ### Subsection "RPC methods"
 
-ThingsBoard allows sending [RPC commands](https://thingsboard.io/docs/user-guide/rpc/) to devices connected directly to ThingsBoard or via Gateway.
+ThingsBoard allows sending [RPC commands](https://docs.sensef.ru/docs/user-guide/rpc/) to devices connected directly to ThingsBoard or via Gateway.
 The following parameters are used to configure RPC methods:
 
 - **Method name** - the name of the method on OPC-UA server.

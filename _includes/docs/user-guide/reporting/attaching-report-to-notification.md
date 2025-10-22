@@ -66,12 +66,12 @@ We&#39;ll add a single component to the template — an Alarm Table — to displ
 <br><b><font size="3">After making changes to the "New alarm notification" template, it&#39;s a good idea to test that everything works as expected.</font></b>
 
 First, make sure that you have an alarm creation rule configured for your device.
-You can find instructions for setting up such a rule in the relevant section of the documentation ([see the link](https://thingsboard.io/docs/getting-started-guides/helloworld-pe/#step-4-configure-alarm-rules){:target="_blank"}).
+You can find instructions for setting up such a rule in the relevant section of the documentation ([see the link](https://docs.sensef.ru/docs/getting-started-guides/helloworld-pe/#step-4-configure-alarm-rules){:target="_blank"}).
 
 {% include images-gallery.html imageCollection="alarm-rule" %}
 
 Trigger the alarm by publishing telemetry for your device that exceeds the threshold value defined in the alarm creation rule.
-The easiest way to do this is by using the [Check connectivity](https://thingsboard.io/docs/getting-started-guides/helloworld-pe/#step-2-connect-device){:target="_blank"} feature in ThingsBoard.
+The easiest way to do this is by using the [Check connectivity](https://docs.sensef.ru/docs/getting-started-guides/helloworld-pe/#step-2-connect-device){:target="_blank"} feature in ThingsBoard.
 
 {% include images-gallery.html imageCollection="check-connectivity-feature" %}
 

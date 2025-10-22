@@ -158,7 +158,7 @@
     single-board-computers-guides:
       0:
         label: ODYSSEY STM32MP157C
-        href: https://thingsboard.io/docs/pe/devices-library/odyssey-stm32mp157c/
+        href: https://docs.sensef.ru/docs/pe/devices-library/odyssey-stm32mp157c/
     gateway-guides:
       1:
         label: reComputer R1000

@@ -74,4 +74,4 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 <p style="text-align: center; font-size: 1.17em; font-weight: bold;">Contacting us</p>
 
-If there are any questions regarding this privacy policy you may contact us using the information available on the following [web page](https://thingsboard.io/company/).
+If there are any questions regarding this privacy policy you may contact us using the information available on the following [web page](https://docs.sensef.ru/company/).

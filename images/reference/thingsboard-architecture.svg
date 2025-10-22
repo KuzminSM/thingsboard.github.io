@@ -2739,7 +2739,7 @@ opacity: 1;
      fill="#28232D"
      id="path1335" />
   <a
-     xlink:href="https://thingsboard.io/docs/user-guide/rule-engine-2-0/re-getting-started/"
+     xlink:href="https://docs.sensef.ru/docs/user-guide/rule-engine-2-0/re-getting-started/"
      target="_parent"
      xlink:title="Rule Engine"
      id="a1365">
@@ -2806,7 +2806,7 @@ opacity: 1;
     </g>
   </a>
   <a
-     xlink:href="https://thingsboard.io/docs/reference/msa/#thingsboard-node"
+     xlink:href="https://docs.sensef.ru/docs/reference/msa/#thingsboard-node"
      target="_parent"
      xlink:title="ThingsBoard Node"
      id="a1405">
@@ -2893,7 +2893,7 @@ opacity: 1;
     </g>
   </a>
   <a
-     xlink:href="https://thingsboard.io/docs/reference/msa/#web-ui-microservices"
+     xlink:href="https://docs.sensef.ru/docs/reference/msa/#web-ui-microservices"
      target="_parent"
      xlink:title="Web UI Microservices"
      id="a1441">
@@ -2972,7 +2972,7 @@ opacity: 1;
     </g>
   </a>
   <a
-     xlink:href="https://thingsboard.io/docs/reference/#message-queues-are-awesome"
+     xlink:href="https://docs.sensef.ru/docs/reference/#message-queues-are-awesome"
      target="_parent"
      xlink:title="Message Queues are awesome!"
      id="a1449">
@@ -2993,7 +2993,7 @@ opacity: 1;
        id="path1447" />
   </a>
   <a
-     xlink:href="https://thingsboard.io/docs/iot-gateway/what-is-iot-gateway/"
+     xlink:href="https://docs.sensef.ru/docs/iot-gateway/what-is-iot-gateway/"
      target="_parent"
      xlink:title="What is ThingsBoard IoT Gateway?"
      id="a1453">
@@ -3009,7 +3009,7 @@ opacity: 1;
        id="rect1451" />
   </a>
   <a
-     xlink:href="https://thingsboard.io/docs/reference/msa/#transport-microservices"
+     xlink:href="https://docs.sensef.ru/docs/reference/msa/#transport-microservices"
      target="_parent"
      xlink:title="Transport Microservices"
      id="a1457">
@@ -3025,7 +3025,7 @@ opacity: 1;
        id="rect1455" />
   </a>
   <a
-     xlink:href="https://thingsboard.io/docs/reference/#sql-vs-nosql-vs-hybrid-database-approach"
+     xlink:href="https://docs.sensef.ru/docs/reference/#sql-vs-nosql-vs-hybrid-database-approach"
      target="_parent"
      xlink:title="SQL vs NoSQL vs Hybrid database approach"
      id="a1463">

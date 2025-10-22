@@ -14,7 +14,7 @@ This guide will help you to install and start ThingsBoard Gateway using Docker o
 
 - [Install Docker Compose for Windows](https://docs.docker.com/desktop/setup/install/windows-install/){:target="_blank"};
 - You will need to have access to ThingsBoard. The easiest way is to use the [ThingsBoard Demo](https://demo.thingsboard.io/){:target="_blank"} or [ThingsBoard Cloud](https://thingsboard.cloud){:target="_blank"}.
-The alternative option is to install the ThingsBoard locally using the [installation guide](https://thingsboard.io/docs/user-guide/install/installation-options/){:target="_blank"}.
+The alternative option is to install the ThingsBoard locally using the [installation guide](https://docs.sensef.ru/docs/user-guide/install/installation-options/){:target="_blank"}.
 
 ## Download a docker-compose file
 

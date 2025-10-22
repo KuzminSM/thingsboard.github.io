@@ -123,7 +123,7 @@ security:
    ...
       oauth2:
         # Enable/disable OAuth 2 login functionality
-        # For details please refer to https://thingsboard.io/docs/user-guide/oauth-2-support/
+        # For details please refer to https://docs.sensef.ru/docs/user-guide/oauth-2-support/
         enabled: "${SECURITY_OAUTH2_ENABLED:true}"
         # Redirect URL where access code from external user management system will be processed
         loginProcessingUrl: "${SECURITY_OAUTH2_LOGIN_PROCESSING_URL:/login/oauth2/code/}"

@@ -546,7 +546,7 @@ Major release with the following features and bug fixes:
   * [#12033](https://github.com/thingsboard/thingsboard/pull/12033) Fixed chart widget not applies hidden data key by default by @maxunbearable
   * [#12080](https://github.com/thingsboard/thingsboard/pull/12080) Fixed broken link and add link for rule node by @ArtemDzhereleiko
   * [#12100](https://github.com/thingsboard/thingsboard/pull/12100) Fixed show color in signal strength widget when low signal by @vvlladd28
-  * [#12102](https://www.thingsboard.io/docs/user-guide/ui/) Fixed duplicate led indicators in GPIO panel widgets by @vvlladd28
+  * [#12102](https://docs.sensef.ru/docs/user-guide/ui/) Fixed duplicate led indicators in GPIO panel widgets by @vvlladd28
   * [#12105](https://github.com/thingsboard/thingsboard/pull/12105) Fixed addition of small widget in mobile layout dashboard by @vvlladd28
   * [#12120](https://github.com/thingsboard/thingsboard/pull/12120) Fixed mail notification preview by @vvlladd28
   * [#12121](https://github.com/thingsboard/thingsboard/pull/12121) Fixed example in TBEL round number by @vvlladd28
@@ -881,7 +881,7 @@ Minor release with the following improvements and bug fixes:
 
 ## v3.6.3 (Mar 18, 2024) {#v363}
 
-For an overview of the main improvements, check out the [**ThingsBoard 3.6.3 release**](https://thingsboard.io/blog/thingsboard-release-3-6-3-announcement/) blog post.
+For an overview of the main improvements, check out the [**ThingsBoard 3.6.3 release**](https://docs.sensef.ru/blog/thingsboard-release-3-6-3-announcement/) blog post.
 
 **Major Improvements**
 
@@ -1715,7 +1715,7 @@ Minor release with the following features and bug fixes:
 **Minor** release with the following improvements and bug fixes:
 
 * Core:
-  * Improved performance and stability of the [Device State Service](https://thingsboard.io/docs/user-guide/device-connectivity-status/);
+  * Improved performance and stability of the [Device State Service](https://docs.sensef.ru/docs/user-guide/device-connectivity-status/);
   * [#6983](https://github.com/thingsboard/thingsboard/pull/6983) Fixed start up failure due to Spring circular dependencies;
   * [#6923](https://github.com/thingsboard/thingsboard/pull/6923) Replaced deprecated StringUtils usages with in-repository implementation;
   * [#6959](https://github.com/thingsboard/thingsboard/pull/6959) Fixed auto-convertion of string values that start with '0' to double in EntityDataAdapter;

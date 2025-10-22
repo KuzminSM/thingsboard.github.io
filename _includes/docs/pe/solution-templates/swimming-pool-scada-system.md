@@ -20,7 +20,7 @@ To understand how the Swimming Pool SCADA system template works, let's start by 
 
 ## Install solution template
 
-You will need to have access to ThingsBoard Professional Edition. The easiest way is to use [ThingsBoard Cloud](https://thingsboard.io/installations/choose-region/){:target="_blank"} server.
+You will need to have access to ThingsBoard Professional Edition. The easiest way is to use [ThingsBoard Cloud](https://docs.sensef.ru/installations/choose-region/){:target="_blank"} server.
 The alternative option is to install ThingsBoard using [installation guide](/docs/user-guide/install/pe/installation-options/){:target="_blank"}.
 
 - Go to the "**Solution templates**" page. Find "**Swimming Pool SCADA system**" and click "**Install**" to start the installation process.
@@ -115,18 +115,18 @@ We'll examine the configuration parameters using the "Main intake valve" device 
 
 In this template, we're using an emulator to simulate devices and their telemetry data.
 The host `host.docker.internal` and port `5021` are specific to your Modbus device. If you need to connect actual devices, replace the host and port values with the real ones.
-A detailed description of other parameters, such as Method, Unit ID, and others, can be found on the [Modbus Connector configuration](https://thingsboard.io/docs/iot-gateway/config/modbus/#subsection-slaves){:target="_blank"} page.
+A detailed description of other parameters, such as Method, Unit ID, and others, can be found on the [Modbus Connector configuration](https://docs.sensef.ru/docs/iot-gateway/config/modbus/#subsection-slaves){:target="_blank"} page.
 
 {% include images-gallery.html imageCollection="gateway-master-connections-2" %}
 
 Scroll down to the "Time series" section. Here, you can configure the processing of incoming data. These settings will be interpreted in ThingsBoard as device telemetry data. 
-To open the time series configuration, click the pencil icon. For more details on each parameter and setting in the "Time series" section, refer to the [Modbus time series settings](https://thingsboard.io/docs/iot-gateway/config/modbus/#key-settings-for-timeseries){:target="_blank"} documentation.
+To open the time series configuration, click the pencil icon. For more details on each parameter and setting in the "Time series" section, refer to the [Modbus time series settings](https://docs.sensef.ru/docs/iot-gateway/config/modbus/#key-settings-for-timeseries){:target="_blank"} documentation.
 
 {% include images-gallery.html imageCollection="time-series-section-1" %}
 
 In the "RPC Requests" section, you can configure parameters for remote procedure calls (RPC) from ThingsBoard to the device. 
 This section is necessary for sending commands and receiving responses from the device. 
-For detailed information on each parameter in "RPC Requests", refer to the [Modbus RPC settings](https://thingsboard.io/docs/iot-gateway/config/modbus/#key-settings-for-rpc){:target="_blank"}  documentation.
+For detailed information on each parameter in "RPC Requests", refer to the [Modbus RPC settings](https://docs.sensef.ru/docs/iot-gateway/config/modbus/#key-settings-for-rpc){:target="_blank"}  documentation.
 
 {% include images-gallery.html imageCollection="rpc-requests-section-1" %}
 
